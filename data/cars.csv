@@ -1,363 +1,327 @@
-year/make/model,price,value,engine,trans,trim,group,horsepower,mpg
-2018 Acura RDX,"$36,000",Excellent,Engine: V6 3.5 Liter,Sequential SportShift 6 Speed Automatic Mode Select with Manual Mode,Base FWD,Premium Mid-Size Utility,279@6200,20 City /  28 Hwy
-2018 Acura NSX,"$156,000",Average,Engine: V6 Turbo 3.5 Liter,9 Speed Automatic,Base Coupe,Luxury Performance Car,573@6500,21 City /  22 Hwy
-2018 Acura MDX,"$44,200",Below Average,Engine: V6 3.5 Liter,Sequential SportShift 9 Speed Automatic Mode Select with Manual Mode,Base FWD,Premium Full-Size Utility,290@6200,19 City /  27 Hwy
-2018 Acura TLX,"$33,000",Excellent,Engine: 4-Cyl 2.4 Liter,8 Speed Automatic,2.4 Sedan,Premium Passenger Car,206@6800,23 City /  33 Hwy
-2018 Acura ILX,"$28,100",Average,Engine: 4-Cyl 2.4 Liter,8 Speed Automatic,Base Sedan,Compact Passenger Car,201@6800,25 City /  35 Hwy
-2018 Acura RLX,"$54,900",Average,Engine: V6 3.5 Liter,Sequential SportShift 10 Speed Automatic Mode Select with Manual Mode,P-AWS Sedan,Luxury Passenger Car,310@6500,20 City /  29 Hwy
-
-2018 Alfa Romeo Stelvio,"$41,995",Below Average,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic Mode Select with Manual Mode (8HP50),Base,Premium Compact Utility,280@5200,22 City /  28 Hwy
-2018 Alfa Romeo 4C,"$65,900",Average,Engine: 4-Cyl Turbo 1.7 Liter,6 Speed Automatic (DA5),Spider,Premium Performance Car,237@6000,24 City /  34 Hwy
-2018 Alfa Romeo Giulia,"$38,195",Average,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic with Manual Mode (8HP50),Base Sedan,Premium Compact Passenger Car,280@5200,24 City /  33 Hwy
-2018 Aston Martin Vanquish,N/A,N/A,N/A,N/A,Base Coupe,N/A,N/A,N/A,Coupe,N/A,N/A,N/A
-2018 Aston Martin DB11,N/A,N/A,N/A,N/A,Base Coupe,N/A,N/A,N/A,Coupe,N/A,N/A,N/A
-
-
-2018 Audi S8,"$115,900",Poor,Engine: V8 Turbo 4.0 Liter TFSI®,Tiptronic® 8 Speed Automatic Mode Select with Manual Mode,plus quattro Sedan,Luxury Performance Car,605,14 City /  24 Hwy
-2018 Audi S7,"$81,200",Below Average,Engine: V8 Turbo 4.0 Liter,S tronic 7 Speed Automatic,Premium Plus quattro Hatchback,Luxury Performance Car,450@5800,16 City /  24 Hwy
-2018 Audi TT,"$43,950",Below Average,Engine: 4-Cyl Turbo 2.0 Liter,S tronic 6 Speed Automatic,quattro Coupe,Premium Sporty/Coupe,220@4500,23 City /  30 Hwy
-2018 Audi A7,"$69,700",Average,Engine: V6 Supercharged 3.0 Liter,Tiptronic 8 Speed Automatic Mode Select with Manual Mode,3.0T Premium Plus quattro Hatchback,Luxury Passenger Car,340@5300,20 City /  29 Hwy
-2018 Audi S3,"$43,650",Below Average,Engine: 4-Cyl Turbo 2.0 Liter TFSI®,S tronic® 6 Speed Automatic,Premium Plus quattro Sedan,Premium Performance Car,292@5400,22 City /  28 Hwy
-2018 Audi A6,"$49,700",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,S tronic® 7 Speed Automatic (G),2.0T Premium Sedan,Luxury Passenger Car,252@5000,25 City /  34 Hwy
-2018 Audi Q5,"$41,500",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,S tronic® 7 Speed Automatic,2.0T Premium quattro,Premium Compact Utility,252@5000,23 City /  27 Hwy
-2018 Audi allroad,"$44,500",Average,Engine: 4-Cyl Turbo 2.0 Liter,S tronic® 7 Speed Automatic Mode Select,2.0T Premium quattro Wagon,Premium Compact Utility,252@5000,22 City /  30 Hwy
-2018 Audi A8,"$82,500",Poor,Engine: V6 Supercharged 3.0 Liter TFSI®,Tiptronic® 8 Speed Automatic Mode Select with Manual Mode,L 3.0T quattro Sedan,Luxury Passenger Car,333@5300,19 City /  29 Hwy
-2018 Audi A4,"$36,000",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,S tronic® 7 Speed Automatic,2.0T ultra Premium Sedan,Premium Compact Passenger Car,190@4200,27 City /  37 Hwy
-2018 Audi Q3,"$32,900",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,Tiptronic® 6 Speed Automatic Mode Select with Manual Mode (X),2.0T Premium,Premium Compact Utility,200@5100,20 City /  28 Hwy
-2018 Audi A5,"$42,600",Excellent,Engine: 4-Cyl Turbo 2.0 Liter TFSI®,S tronic® 7 Speed Automatic,2.0T Premium quattro Sportback,Luxury Passenger Car,252@5000,24 City /  34 Hwy
-2018 Audi Q7,"$49,900",Above Average,Engine: 4-Cyl Turbo 2.0 Liter TFSI®,Tiptronic® 8 Speed Automatic Mode Select with Manual Mode,2.0T Premium quattro,Luxury Utility,252@5000,20 City /  25 Hwy
-2018 Audi RS 7,"$113,900",Below Average,Engine: V8 Turbo 4.0 Liter,Tiptronic 8 Speed Automatic Mode Select with Manual Mode,Prestige quattro Hatchback,Luxury Performance Car,560@5700,14 City /  24 Hwy
-2018 Audi R8,"$164,900",Below Average,Engine: V10 5.2 Liter,S tronic® 7 Speed Automatic,5.2 (Auto) Coupe,Luxury Performance Car,540@7800,14 City /  22 Hwy
-2018 Audi S5,"$54,400",Below Average,Engine: V6 Turbo 3.0 Liter TFSI®,Tiptronic® 8 Speed Automatic with Manual Mode,Premium Plus quattro Sportback,Premium Performance Car,354@5400,21 City /  30 Hwy
-
-2018 Audi A3,"$31,950",Above Average,Engine: 4-Cyl Turbo 2.0 Liter TFSI®,S tronic® 7 Speed Automatic,2.0T Premium Sedan,Premium Compact Passenger Car,186@4400,26 City /  35 Hwy
-
-2018 Audi S4,"$50,900",Above Average,Engine: V6 Turbo 3.0 Liter,Tiptronic® 8 Speed Automatic with Manual Mode,Premium Plus quattro Sedan,Premium Performance Car,354@5400,21 City /  30 Hwy
-2018 Audi S6,"$71,900",Poor,Engine: V8 Turbo 4.0 Liter,S tronic® 7 Speed Automatic (Y),Premium Plus quattro Sedan,Premium Performance Car,450@5800,16 City /  24 Hwy
-2018 Audi SQ5,"$54,300",Below Average,Engine: V6 Turbo 3.0 Liter,Tiptronic® 8 Speed Automatic Mode Select with Manual Mode (A),Premium Plus quattro,Premium Compact Utility,354@5400,19 City /  24 Hwy
-2018 Audi RS 3,"$54,900",Poor,Engine: 5-Cyl Turbo 2.5 Liter TFSI®,S tronic® 7 Speed Automatic,Base quattro Sedan,Premium Performance Car,400@5850,19 City /  28 Hwy
-2018 Bentley Continental GT,"$264,300",N/A,Engine: W12 Turbo Flex Fuel 6.0 Liter,8 Speed Automatic with Manual Mode (8HP90),Speed Convertible,Luxury Performance Car,633@6000,9 City /  15 Hwy
-2018 Bentley Bentayga,"$232,800",N/A,Engine: W12 Turbo 6.0 Liter,8 Speed Automatic with Manual Mode (ZF AL952),W12,Luxury Utility,599@5000,12 City /  19 Hwy
-2018 Bentley Mulsanne,N/A,N/A,N/A,N/A,Base Sedan,N/A,N/A,N/A,Sedan,N/A,N/A,N/A
-2018 Bentley Flying Spur,"$189,000",N/A,Engine: V8 Turbo 4.0 Liter,8 Speed Automatic Mode Select with Manual Mode (8HP90),V8 Sedan,Luxury Passenger Car,500@6000,13 City /  22 Hwy
-
-
-2018 BMW 7-Series,"$83,100",Below Average,Engine: 6-Cyl Turbo 3.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP50),740i Sedan,Luxury Passenger Car,320@5500,21 City /  29 Hwy
-2018 BMW M5,"$102,600",N/A,Engine: V8 Turbo 4.4 Liter,Steptronic 8 Speed Automatic with Manual Mode (M8HP75),Base Sedan,Luxury Performance Car,600@5700,N/A,Sedan,AWD,Unleaded Premium,5/5
-2018 BMW 4-Series,"$43,300",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic Mode Select with Manual Mode (8HP50),430i Gran Coupe,Premium Compact Passenger Car,248@5200,24 City /  34 Hwy
-2018 BMW X4,"$47,600",Average,Engine: 4-Cyl Turbo 2.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP45),xDrive28i,Premium Compact Utility,240@5000,20 City /  28 Hwy
-2018 BMW X5,"$57,200",Above Average,Engine: 6-Cyl Turbo 3.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP45),sDrive35i,Luxury Utility,300@5800,18 City /  25 Hwy
-2018 BMW X6,"$62,950",Below Average,Engine: 6-Cyl Turbo 3.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP45),sDrive35i,Luxury Utility,300@5800,18 City /  25 Hwy
-2018 BMW X1,"$33,900",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (AISIN F22),sDrive28i,Premium Compact Utility,228@5000,23 City /  32 Hwy
-2018 BMW X2,"$36,400",N/A,Engine: 4-Cyl Turbo 2.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode,sDrive28i,Premium Compact Utility,228@5000,21 City /  31 Hwy
-2018 BMW M4,"$68,700",Average,Engine: 6-Cyl Turbo 3.0 Liter,6 Speed Manual (K),Base Coupe,Premium Performance Car,425@5500,17 City /  25 Hwy
-2018 BMW M3,"$66,500",Average,Engine: 6-Cyl Turbo 3.0 Liter,6 Speed Manual (K),Base Sedan,Premium Performance Car,425@5500,17 City /  25 Hwy
-2018 BMW 5-Series,"$52,650",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP50),530i Sedan,Luxury Passenger Car,248@5200,24 City /  34 Hwy
-2018 BMW M6,"$119,800",Poor,Engine: V8 Turbo 4.4 Liter,7 Speed Automatic (M-DKG 436),Base Gran Coupe,Luxury Performance Car,560@6000,15 City /  22 Hwy
-2018 BMW X3,"$42,650",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP50),xDrive30i,Premium Compact Utility,248@5200,21 City /  28 Hwy
-2018 BMW 3-Series,"$34,900",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP45),320i Sedan,Premium Compact Passenger Car,180@5000,24 City /  35 Hwy
-2018 BMW M2,"$54,500",Poor,Engine: 6-Cyl Turbo 3.0 Liter,Steptronic 6 Speed Manual (K),Base Coupe,Premium Performance Car,365@6500,20 City /  26 Hwy
-2018 BMW i3,"$44,450",N/A,"Motor, Single Electric",1 Speed Automatic (GE1B132H),Base Hatchback,Premium Compact Passenger Car,170,129 City /  106 Hwy
-2018 BMW 2-Series,"$34,950",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP50),230i Coupe,Premium Sporty/Coupe,248@5200,24 City /  35 Hwy
-2018 BMW 6-Series,"$70,200",Below Average,Engine: 6-Cyl Turbo 3.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP50),640i xDrive Gran Turismo,Luxury Performance Car,335@5500,20 City /  28 Hwy
-2018 Buick Regal,"$24,990",Poor,Engine: 4-Cyl Turbo 2.0 Liter EcoTec,9 Speed Automatic with Manual Mode,ISV FWD Sportback,Passenger Car,250@5400,22 City /  32 Hwy
-2018 Buick Enclave,"$39,995",Below Average,Engine: V6 3.6 Liter,Hydra-Matic 9 Speed Automatic with Manual Mode (9T65),Base FWD,Full-Size Utility,302@6800,18 City /  26 Hwy
-2018 Buick Encore,"$22,990",Average,Engine: 4-Cyl Turbo 1.4 Liter Ecotec,Hydra-Matic 6 Speed Automatic with Manual Mode (6T40),1SV,Compact Utility,138@4900,27 City /  33 Hwy
-2018 Buick LaCrosse,"$29,565",Above Average,Engine: 4-Cyl 2.5 Liter,Hydra-Matic 6 Speed Automatic Mode Select with Manual Mode (6T40),Base Sedan,Premium Passenger Car,194@6300,25 City /  35 Hwy
-2018 Buick Cascada,"$33,065",Below Average,Engine: 4-Cyl Turbo 1.6 Liter,6 Speed Automatic (MH7),1SV Convertible,Convertible,200@5500,21 City /  29 Hwy
-2018 Buick Envision,"$33,995",N/A,Engine: 4-Cyl 2.5 Liter Ecotec,6 Speed Automatic with Manual Mode (MHG),Base FWD,Premium Compact Utility,197@6300,22 City /  29 Hwy
-2018 Cadillac XTS,"$46,395",Above Average,Engine: V6 3.6 Liter,Hydra-Matic 6 Speed Automatic Mode Select with Manual Mode (6T70),Base Sedan,Luxury Passenger Car,304@6800,19 City /  28 Hwy
-2018 Cadillac ATS,"$35,495",Below Average,Engine: 4-Cyl Turbo 2.0 Liter Ecotec,Hydra-Matic 8 Speed Automatic Mode Select with Manual Mode (8L45),2.0 RWD Sedan,Premium Compact Passenger Car,272@5500,N/A,Sedan,RWD,N/R,5/5
-2018 Cadillac Escalade,"$74,695",Excellent,Engine: V8 6.2 Liter EcoTec3,10 Speed Automatic Mode Select with Manual Mode,Base 2WD,Luxury Utility,420@5600,14 City /  23 Hwy
-2018 Cadillac XT5,"$40,595",Above Average,Engine: V6 3.6 Liter,8 Speed Automatic Mode Select with Manual Mode (AWF8F45),Base FWD,Luxury Utility,310@6600,19 City /  26 Hwy
-
-2018 Cadillac CTS,"$46,495",Above Average,Engine: 4-Cyl Turbo 2.0 Liter Ecotec,Hydra-Matic 8 Speed Automatic Mode Select with Manual Mode (8L45),2.0 RWD Sedan,Luxury Passenger Car,268@5600,22 City /  30 Hwy
-
-2018 Cadillac CT6,"$54,095",Average,Engine: 4-Cyl Turbo 2.0 Liter Ecotec,Hydra-Matic 8 Speed Automatic with Manual Mode (8L45),2.0 Sedan,Luxury Passenger Car,265@5500,22 City /  30 Hwy
-2018 Chevrolet Trax,"$21,000",Below Average,Engine: 4-Cyl Turbo 1.4 Liter EcoTec,Hydra-Matic 6 Speed Automatic with Manual Mode (MNK-6T40),LS FWD,Compact Utility,138@4900,25 City /  33 Hwy
-2018 Chevrolet Malibu Hybrid,"$27,920",Above Average,Engine: 4-Cyl 1.8 Liter Ecotec,8 Speed Automatic with Manual Mode (AWF8F45),Base Sedan,Passenger Car,124@5000,49 City /  43 Hwy
-2018 Chevrolet Tahoe,"$47,500",Excellent,Engine: V8 5.3 Liter EcoTec3,Hydra-Matic 6 Speed Automatic Mode Select with Manual Mode (6L80),LS 2WD,Premium Full-Size Utility,355@5600,16 City /  23 Hwy
-2018 Chevrolet Colorado,"$20,200",Average,Engine: 4-Cyl 2.5 Liter,Eaton N8D 6 Speed Manual (N8D),Base 2WD Extended Cab,Mid-Size Pickup,200@6300,20 City /  26 Hwy
-2018 Chevrolet City Express,"$22,855",Excellent,Engine: 4-Cyl 2.0 Liter,Xtronic Continuously Variable Automatic (MRA),LS Cargo Van,Cargo Van,131@5200,24 City /  26 Hwy
-2018 Chevrolet Sonic,"$17,720",Below Average,Engine: 4-Cyl Turbo 1.4 Liter Ecotec,6 Speed Manual,LT (Manual) Sedan,Compact Passenger Car,138@4900,28 City /  37 Hwy
-2018 Chevrolet Corvette,"$55,495",Above Average,Engine: V8 6.2 Liter,Tremec 7 Speed Manual (TR6070),Stingray 1LT Coupe,Premium Performance Car,455@6000,16 City /  25 Hwy
-2018 Chevrolet Volt,"$33,220",Excellent,Engine: 4-Cyl 1.5 Liter,Continuously Variable Automatic,LT Sedan,Passenger Car,149@5600,N/A,Hatchback,FWD,N/R,5/5
-2018 Chevrolet Malibu,"$21,680",Above Average,Engine: 4-Cyl Turbo 1.5 Liter Ecotec,Hydra-Matic 6 Speed Automatic with Manual Mode (6T40),L Sedan,Passenger Car,160@5700,27 City /  36 Hwy
-2018 Chevrolet Traverse,"$29,930",Above Average,Engine: V6 3.6 Liter,9 Speed Automatic with Manual Mode (9T65),L FWD,Full-Size Utility,310@6800,18 City /  27 Hwy
-2018 Chevrolet Spark,"$15,975",Average,Engine: 4-Cyl 1.4 Liter Ecotec,Jatco Continuously Variable Automatic (MR8),1LT (Auto) Hatchback,Compact Passenger Car,98@6200,30 City /  38 Hwy
-2018 Chevrolet Bolt EV,"$36,620",N/A,"Motor, Single Electric",1 Speed Automatic,LT  Hatchback,Compact Passenger Car,200,128 City /  110 Hwy
-2018 Chevrolet Impala,"$27,895",Poor,Engine: 4-Cyl 2.5 Liter Ecotec,Hydra-Matic 6 Speed Automatic with Manual Mode (6T40),LS Sedan,Passenger Car,196@6300,22 City /  30 Hwy
-2018 Chevrolet Express,"$31,295",N/A,Engine: V6 Flex Fuel 4.3 Liter,8 Speed Automatic Mode Select with Manual Mode (8L90),2500 Cargo Van Regular,Cargo Van,276@5200,N/A,Van,RWD,Unleaded Regular,2/5
-2018 Chevrolet Suburban,"$50,200",Above Average,Engine: V8 5.3 Liter EcoTec3,6 Speed Automatic Mode Select with Manual Mode (6L80),1500 LS 2WD,Premium Full-Size Utility,355@5600,16 City /  23 Hwy
-2018 Chevrolet Silverado 2500HD,"$34,400",Below Average,Engine: V8 Flex Fuel 6.0 Liter Vortec,Hydra-Matic 6 Speed Automatic Mode Select with Manual Mode (6L90),Work Truck 2WD Regular Cab,Full-Size Pickup HD,360@5400,11 City /  16 Hwy
-2018 Chevrolet Camaro,"$25,905",Poor,Engine: 4-Cyl Turbo 2.0 Liter,Tremec 6 Speed Manual (TR6060),1LS Coupe,Sporty/Coupe,275@5600,20 City /  30 Hwy
-2018 Chevrolet Equinox,"$23,580",Average,Engine: 4-Cyl Turbo 1.5 Liter,Hydra-Matic 6 Speed Automatic Mode Select with Manual Mode (6T40),L FWD,Mid-Size Utility,170@5600,26 City /  32 Hwy
-2018 Chevrolet Silverado 1500,"$28,300",Above Average,Engine: V6 Flex Fuel 4.3 Liter EcoTec3,Hydra-Matic 6 Speed Automatic Mode Select with Manual Mode (6L80),Work Truck 1WT 2WD Standard Bed Regular Cab,Full-Size Pickup LD,285@5300,18 City /  24 Hwy
-2018 Chevrolet Silverado 3500HD,"$35,500",Below Average,Engine: V8 Flex Fuel 6.0 Liter Vortec,6 Speed Automatic Mode Select with Manual Mode (6L90),Work Truck 2WD SRW Regular Cab,Full-Size Pickup HD,360@5400,11 City /  16 Hwy
-2018 Chevrolet Cruze,"$16,975",Above Average,Engine: 4-Cyl Turbo 1.4 Liter Ecotec,6 Speed Manual (MF3),L Sedan,Compact Passenger Car,153@5600,27 City /  40 Hwy
-2018 Chrysler Pacifica,"$29,795",Below Average,Engine: V6 3.6 Liter Pentastar™,9 Speed Automatic Mode Select (948TE),LX,Minivan,287@6400,19 City /  28 Hwy
-2018 Chrysler Pacifica Plug-in,"$44,995",Excellent,Engine: V6 3.6 Liter Pentastar™,eFlite EVT Continuously Variable Automatic (DFQ),Limited,Minivan,248@5800,N/A,Van,FWD,N/R,7/7
-2018 Chrysler 300,"$37,545",Average,Engine: V6 3.6 Liter Pentastar™,TorqueFlite® 8 Speed Automatic Mode Select with Manual Mode (845RE),Limited RWD Sedan,Premium Passenger Car,292@6350,19 City /  30 Hwy
-2018 Dodge Grand Caravan,"$26,250",Poor,Engine: V6 Flex Fuel 3.6 Liter Pentastar,AutoStick 6 Speed Automatic Mode Select with Manual Mode (62TE),SE Pass Van,Minivan,283@6400,12 City /  18 Hwy
-2018 Dodge Charger,"$28,995",Above Average,Engine: V6 3.6 Liter Pentastar,TorqueFlite® 8 Speed Automatic with Manual Mode (8HP45),SXT Sedan,Premium Passenger Car,292@6350,19 City /  30 Hwy
-2018 Dodge Durango,"$29,995",Above Average,Engine: V6 3.6 Liter Pentastar,TorqueFlite® 8 Speed Automatic Mode Select with Manual Mode (845RE),SXT RWD,Full-Size Utility,295@6400,19 City /  26 Hwy
-2018 Dodge Challenger,"$27,295",Above Average,Engine: V6 3.6 Liter PentaStar,TorqueFlite® 8 Speed Automatic Mode Select with Manual Mode (845RE),SXT Coupe,Sporty/Coupe,305@6350,19 City /  30 Hwy
-2018 Dodge Journey,"$22,995",Poor,Engine: 4-Cyl 2.4 Liter,AutoStick 4 Speed Automatic Mode Select with Manual Mode (40TES),SE FWD,Mid-Size Utility,173@6000,19 City /  25 Hwy
-
-2018 FIAT 124 Spider,"$24,995",Above Average,Engine: 4-Cyl Turbo 1.4 Liter MultiAir,6 Speed Manual (C635),Classica,Performance Car,160@5500,26 City /  35 Hwy
-2018 FIAT 500L,"$20,995",Poor,Engine: 4-Cyl Turbo 1.4 Liter MultiAir,6 Speed Automatic (F21-250),Pop Hatchback,Compact Passenger Car,160@5500,22 City /  30 Hwy
-2018 FIAT 500,"$16,245",N/A,Engine: 4-Cyl Turbo 1.4 Liter MultiAir,5 Speed Manual (C510),Pop Hatchback,Sporty/Coupe,135@5500,N/A,Hatchback,FWD,Unleaded Premium,4/4
-
-2018 FIAT 500X,"$19,995",Poor,Engine: 4-Cyl Turbo 1.4 Liter MultiAir,6 Speed Manual (C635),Pop 2WD,Compact Utility,160@5500,25 City /  33 Hwy
-2018 Ford Taurus,"$27,690",Poor,Engine: V6 Flex Fuel 3.5 Liter Duratec,SelectShift 6 Speed Automatic with Manual Mode (6F50),SE Sedan,Premium Passenger Car,288@6500,13 City /  20 Hwy
-2018 Ford Transit Connect,"$23,215",Excellent,Engine: 4-Cyl Flex Fuel 2.5 Liter Duratec®,SelectShift® 6 Speed Automatic Mode Select with Manual Mode (6F35),XL SWB Cargo Van,Cargo Van,169@6000,20 City /  27 Hwy
-2018 Ford Expedition,"$51,790",Above Average,Engine: V6 Turbo 3.5 Liter EcoBoost®,SelectShift 10 Speed Automatic Mode Select with Manual Mode (44U),XLT 2WD,Premium Full-Size Utility,375@5000,17 City /  24 Hwy
-
-2018 Ford Mustang,"$25,680",Average,Engine: 4-Cyl Turbo 2.3 Liter EcoBoost®,6 Speed Manual (MT82),EcoBoost Coupe,Sporty/Coupe,310@5500,21 City /  31 Hwy
-
-2018 Ford Fiesta,"$14,205",Below Average,Engine: 4-Cyl 1.6 Liter Duratec,5 Speed Manual,S Sedan,Compact Passenger Car,120@5000,27 City /  35 Hwy
-2018 Ford Fusion,"$22,215",Below Average,Engine: 4-Cyl 2.5 Liter,6 Speed Automatic Mode Select,S Sedan,Passenger Car,175@6000,21 City /  32 Hwy
-2018 Ford C-MAX,"$24,120",Below Average,Engine: 4-Cyl 2.0 Liter Atkinson,eCVT Continuously Variable Automatic (HF35),SE Hybrid Wagon,Compact Utility,188@6000,42 City /  38 Hwy
-2018 Ford Flex,"$30,285",Poor,Engine: V6 3.5 Liter Duratec,SelectShift 6 Speed Automatic with Manual Mode (44J),SE,Full-Size Utility,287@6500,16 City /  23 Hwy
-2018 Ford Escape,"$23,940",Poor,Engine: 4-Cyl Flex Fuel 2.5 Liter,SelectShift 6 Speed Automatic with Manual Mode (L40D),S,Mid-Size Utility,168@6000,15 City /  22 Hwy
-2018 Ford Focus Electric,"$29,120",Below Average,"Motor, Single Electric",1 Speed Automatic,Base Hatchback,Compact Passenger Car,143,118 City /  96 Hwy
-2018 Ford Edge,"$29,315",Below Average,Engine: 4-Cyl Turbo 2.0 Liter EcoBoost,SelectShift 6 Speed Automatic with Manual Mode (6F50),SE 2WD,Mid-Size Utility,245@5500,20 City /  29 Hwy
-2018 Ford F-350,"$34,155",Poor,Engine: V8 Flex Fuel 6.2 Liter,TorqShift® 6 Speed Automatic Mode Select with Manual Mode (6R140),XL 2WD SRW Super Duty Regular Cab,Full-Size Pickup HD,385@5750,12 City /  18 Hwy
-2018 Ford EcoSport,"$19,995",N/A,Engine: 3-Cyl Turbo 1.0 Liter,SelectShift® 6 Speed Automatic Mode Select with Manual Mode (447),S FWD,Compact Utility,123@6000,27 City /  29 Hwy
-2018 Ford Transit,"$32,380",Below Average,Engine: V6 3.7 Liter,SelectShift® 6 Speed Automatic with Manual Mode (446),150 w/130 WB & 60/40 Door Low Roof Cargo Van,Cargo Van,275@6000,14 City /  18 Hwy
-2018 Ford Explorer,"$32,140",Poor,Engine: V6 3.5 Liter,SelectShift 6 Speed Automatic Mode Select with Manual Mode (44J),Base 2WD,Full-Size Utility,290@6500,N/A,SUV/Crossover,FWD,Unleaded Regular,7/7
-2018 Ford Fusion Hybrid,"$25,390",Above Average,Engine: 4-Cyl 2.0 Liter Atkinson,eCVT Continuously Variable Automatic (HF35),S Sedan,Passenger Car,188@6000,43 City /  41 Hwy
-2018 Ford Focus,"$17,950",Poor,Engine: 4-Cyl 2.0 Liter Duratec,5 Speed Manual (44Z),S Sedan,Compact Passenger Car,160@6500,N/A,Sedan,FWD,N/R,5/5
-2018 Ford GT,N/A,N/A,N/A,N/A,Base Coupe,N/A,N/A,N/A,Coupe,N/A,N/A,N/A
-2018 Ford F-250,"$32,985",Below Average,Engine: V8 Flex Fuel 6.2 Liter,TorqShift®-G 6 Speed Automatic Mode Select with Manual Mode (6R100),Super Duty XL 2WD Regular Cab,Full-Size Pickup HD,385@5750,12 City /  18 Hwy
-2018 Ford F-150,"$27,705",Above Average,Engine: V6 Flex Fuel 3.3 Liter,SelectShift® 6 Speed Automatic Mode Select with Manual Mode (6R80E),XL 2WD Short Bed Regular Cab,Full-Size Pickup LD,290@6500,N/A,Truck,RWD,Unleaded Regular,3/3
-2018 Genesis G80,"$41,750",Above Average,Engine: V6 3.8 Liter Lambda,SHIFTRONIC 8 Speed Automatic Mode Select with Manual Mode,3.8 RWD Sedan,Premium Passenger Car,311@6000,19 City /  27 Hwy
-
-2018 Genesis G90,"$68,350",Poor,Engine: V6 Turbo 3.3 Liter,SHIFTRONIC 8 Speed Automatic Mode Select with Manual Mode,Premium Sedan,Luxury Passenger Car,365@6000,17 City /  24 Hwy
-2018 GMC Savana,"$31,295",Below Average,Engine: V6 4.3 Liter,8 Speed Automatic Mode Select (8L90),2500 Cargo Van Regular,Cargo Van,276@5200,13 City /  18 Hwy
-2018 GMC Sierra 2500HD,"$35,000",Below Average,Engine: V8 Flex Fuel 6.0 Liter Vortec,6 Speed Automatic Mode Select with Manual Mode (6L90),2WD Regular Cab,Full-Size Pickup HD,360@5400,11 City /  16 Hwy
-2018 GMC Terrain,"$24,995",Average,Engine: 4-Cyl Turbo 1.5 Liter,9 Speed Automatic Mode Select with Manual Mode (9T45),SL FWD,Mid-Size Utility,170@5600,26 City /  30 Hwy
-2018 GMC Acadia,"$29,000",Average,Engine: 4-Cyl 2.5 Liter Ecotec,Hydra-Matic 6 Speed Automatic with Manual Mode (6T50),SL FWD,Full-Size Utility,194@6300,21 City /  26 Hwy
-2018 GMC Sierra 3500HD,"$36,100",Poor,Engine: V8 Flex Fuel 6.0 Liter Vortec,6 Speed Automatic Mode Select with Manual Mode (6L90),Base 2WD SRW Regular Cab,Full-Size Pickup HD,360@5400,11 City /  16 Hwy
-2018 GMC Yukon,"$49,100",Excellent,Engine: V8 5.3 Liter EcoTec3,Hydra-Matic 6 Speed Automatic Mode Select with Manual Mode (6L80),SLE 2WD,Premium Full-Size Utility,355@5600,16 City /  23 Hwy
-2018 GMC Sierra 1500,"$29,000",Poor,Engine: V6 Flex Fuel 4.3 Liter EcoTec3,Hydra-Matic 6 Speed Automatic Mode Select (6L80),Base 2WD Standard Bed Regular Cab,Full-Size Pickup LD,285@5300,12 City /  16 Hwy
-2018 GMC Canyon,"$21,100",Below Average,Engine: 4-Cyl 2.5 Liter EcoTec,Eaton 6 Speed Manual (N8D),SL 2WD Extended Cab,Mid-Size Pickup,200@6300,20 City /  26 Hwy
-2018 Honda Odyssey,"$29,990",Excellent,Engine: V6 3.5 Liter Earth Dreams Technology™,9 Speed Automatic Mode Select with Manual Mode,LX,Minivan,280@6000,19 City /  28 Hwy
-2018 Honda Accord Hybrid,"$25,100",N/A,Engine: 4-Cyl 2.0 Liter,Continuously Variable Automatic Mode Select,Base Sedan,Passenger Car,212@6200,47 City /  47 Hwy
-2018 Honda Clarity,"$33,400",N/A,Engine: 4-Cyl 1.5 Liter,Continuously Variable Automatic,Plug-in Hybrid Sedan,Passenger Car,212@5500,N/A,Sedan,FWD,Unleaded Regular,5/5
-2018 Honda Fit,"$16,190",Excellent,Engine: 4-Cyl 1.5 Liter Earth Dreams Technology™,6 Speed Manual,LX (Manual) Hatchback,Compact Passenger Car,130@6600,29 City /  36 Hwy
-2018 Honda Pilot,"$30,900",Above Average,Engine: V6 3.5 Liter,6 Speed Automatic,LX 2WD,Full-Size Utility,280@6000,19 City /  27 Hwy
-2018 Honda Ridgeline,"$29,730",Above Average,Engine: V6 3.5 Liter,6 Speed Automatic,RT 2WD,Mid-Size Pickup,280@6000,19 City /  26 Hwy
-2018 Honda Civic,"$18,940",Above Average,Engine: 4-Cyl 2.0 Liter,6 Speed Manual,LX (Manual) Sedan,Compact Passenger Car,158@6500,28 City /  40 Hwy
-2018 Honda CR-V,"$24,250",Average,Engine: 4-Cyl 2.4 Liter Earth Dreams Technology™,Continuously Variable Automatic Mode Select,LX 2WD,Mid-Size Utility,184@6400,26 City /  32 Hwy
-2018 Honda HR-V,"$19,670",Above Average,Engine: 4-Cyl 1.8 Liter,6 Speed Manual,LX 2WD (Manual),Compact Utility,141@6500,25 City /  33 Hwy
-2018 Honda Accord,"$23,570",Excellent,Engine: 4-Cyl Turbo 1.5 Liter,Continuously Variable Automatic Mode Select,1.5T LX Sedan,Passenger Car,192@5500,30 City /  38 Hwy
-2018 Hyundai Tucson,"$22,550",N/A,Engine: 4-Cyl 2.0 Liter Nu,SHIFTRONIC® 6 Speed Automatic Mode Select with Manual Mode (A6MF1),SE FWD,Compact Utility,164@6200,23 City /  30 Hwy
-
-2018 Hyundai Accent,"$14,995",Above Average,Engine: 4-Cyl 1.6 Liter Gamma,6 Speed Manual (M6CF1),SE (Manual) Sedan,Compact Passenger Car,130@6300,28 City /  37 Hwy
-2018 Hyundai Santa Fe Sport,"$24,950",Below Average,Engine: 4-Cyl 2.4 Liter Theta II,SHIFTRONIC 6 Speed Automatic with Manual Mode,Base FWD,Mid-Size Utility,185@6000,21 City /  27 Hwy
-2018 Hyundai Santa Fe,"$30,850",Below Average,Engine: V6 3.3 Liter Lambda II,SHIFTRONIC 6 Speed Automatic with Manual Mode,SE FWD,Mid-Size Utility,290@6400,18 City /  25 Hwy
-2018 Hyundai Kona,"$19,500",N/A,Engine: 4-Cyl 2.0 Liter,SHIFTRONIC® 6 Speed Automatic Mode Select with Manual Mode (A6MF1),SE FWD,Compact Utility,147@6200,27 City /  33 Hwy
-2018 Hyundai Ioniq,"$22,200",N/A,Engine: 4-Cyl 1.6 Liter Atkinson,EcoShift® 6 Speed Automatic,Hybrid Blue Sedan,Compact Passenger Car,139@5700,57 City /  59 Hwy
-
-2018 Hyundai Elantra,"$17,950",Above Average,Engine: 4-Cyl 2.0 Liter Nu,SHIFTRONIC 6 Speed Automatic Mode Select with Manual Mode (A6GF1),SE Sedan,Passenger Car,147@6200,29 City /  38 Hwy
-2018 Hyundai Sonata Hybrid,N/A,N/A,N/A,N/A,Base Sedan,N/A,N/A,N/A,Sedan,N/A,N/A,N/A
-2018 Hyundai Sonata,"$22,050",Average,Engine: 4-Cyl 2.4 Liter Theta II,SHIFTRONIC 6 Speed Automatic Mode Select with Manual Mode,SE Sedan,Passenger Car,185@6000,25 City /  36 Hwy
-2018 Infiniti Q70,"$50,300",Average,Engine: V6 3.7 Liter,7 Speed Automatic Mode Select with Manual Mode,3.7 LUXE Sedan,Luxury Passenger Car,330@7000,18 City /  25 Hwy
-
-
-2018 Infiniti Q60,"$39,950",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,7 Speed Automatic Mode Select with Manual Mode,2.0t PURE Coupe,Premium Sporty/Coupe,208@5500,22 City /  30 Hwy
-2018 Infiniti Q50,"$35,200",Average,Engine: 4-Cyl Turbo 2.0 Liter,7 Speed Automatic Mode Select with Manual Mode,2.0t PURE Sedan,Premium Passenger Car,208@5500,23 City /  30 Hwy
-2018 Infiniti QX30,"$29,950",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,7 Speed Automatic,Base,Premium Compact Utility,208@5500,24 City /  33 Hwy
-2018 Infiniti QX80,"$64,750",N/A,Engine: V8 5.6 Liter,Adaptive Shift Control (ASC) 7 Speed Automatic Mode Select with Manual Mode,Base 2WD,Luxury Utility,400@5800,14 City /  20 Hwy
-2018 Infiniti QX60,"$43,300",Average,Engine: V6 3.5 Liter,Continuously Variable Automatic Mode Select with Manual Mode,RWD,Premium Full-Size Utility,295@6400,20 City /  27 Hwy
-2018 Jaguar E-PACE,"$38,600",Below Average,Engine: 4-Cyl Turbo 2.0 Liter,9 Speed Automatic with Manual Mode (ZF 9HP48),Base Sport Utility,Premium Compact Utility,246@5500,21 City /  28 Hwy
-
-
-2018 Jaguar XJ,"$75,400",Poor,Engine: V6 Supercharged 3.0 Liter,Jaguar Sequential Shift™ 8 Speed Automatic Mode Select with Manual Mode (ZF 8HP45),R-Sport Sedan,Luxury Passenger Car,340@6500,18 City /  27 Hwy
-2018 Jaguar F-PACE,"$42,065",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,ZF 8 Speed Automatic Mode Select with Manual Mode (ZF 8HP70),25t,Luxury Utility,247@5500,22 City /  27 Hwy
-2018 Jaguar XE,"$35,725",Average,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic with Manual Mode (ZF 8HP45),25t Sedan,Premium Compact Passenger Car,247@5500,25 City /  34 Hwy
-2018 Jaguar F-Type,"$59,900",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,ZF 8 Speed Automatic Mode Select with Manual Mode (ZF-8HP70),2018.5 296hp Coupe,Premium Sporty/Coupe,296@5500,23 City /  30 Hwy
-
-2018 Jaguar XF,"$47,775",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,Jaguar Sequential Shift 8 Speed Automatic Mode Select with Manual Mode (ZF8HP45),25t Sedan,Luxury Passenger Car,247@5500,25 City /  34 Hwy
-2018 Jeep Renegade,"$18,445",Below Average,Engine: 4-Cyl Turbo 1.4 Liter,6 Speed Manual (C635),Sport 2WD,Compact Utility,160@5500,24 City /  31 Hwy
-2018 Jeep Grand Cherokee,"$30,895",Excellent,Engine: V6 3.6 Liter Pentastar,8 Speed Automatic Mode Select with Manual Mode (850RE),Laredo 2WD,Premium Mid-Size Utility,295@6400,19 City /  26 Hwy
-2018 Jeep Wrangler JK,"$23,995",Excellent,Engine: V6 3.6 Liter Pentastar,6 Speed Manual (NSG370),Sport,Compact Utility,285@6400,17 City /  21 Hwy
-2018 Jeep Compass,"$21,095",Average,Engine: 4-Cyl 2.4 Liter,6 Speed Manual (C635),Sport 2WD,Compact Utility,180@6400,22 City /  31 Hwy
-2018 Jeep Wrangler,"$29,195",Excellent,Engine: V6 3.6 Liter Pentastar,6 Speed Manual (NSG370),Golden Eagle,Compact Utility,285@6400,17 City /  21 Hwy
-2018 Jeep Cherokee,"$24,395",Average,Engine: 4-Cyl 2.4 Liter Tigershark,9 Speed Automatic with Manual Mode (948TE),Latitude 2WD,Mid-Size Utility,184@6400,21 City /  30 Hwy
-2018 Karma Revero,"$130,000",N/A,Engine: 4-Cyl Turbo 2.0 Liter Ecotec,1 Speed Automatic Mode Select,Base Sedan,Luxury Passenger Car,403@5300,N/A,Sedan,RWD,Unleaded Premium,4/4
-2018 Kia Soul,"$16,200",Above Average,Engine: 4-Cyl 1.6 Liter Gamma GDI,6 Speed Manual,(Manual) Wagon,Compact Utility,130@6300,24 City /  30 Hwy
-2018 Kia Optima Hybrid,"$30,990",N/A,Engine: 4-Cyl 2.0 Liter Nu 2.0 GDI,Sportmatic 6 Speed Automatic Mode Select with Manual Mode,EX Sedan,Passenger Car,192@6000,39 City /  46 Hwy
-2018 Kia Stinger,"$31,900",Average,Engine: 4-Cyl Turbo 2.0 Liter Theta II,8 Speed Automatic Mode Select with Manual Mode,Base Hatchback,Premium Passenger Car,255@6200,22 City /  29 Hwy
-2018 Kia Sedona,"$27,000",Poor,Engine: V6 3.3 Liter Lambda II,Sportmatic 6 Speed Automatic Mode Select with Manual Mode,L,Minivan,276@6000,18 City /  24 Hwy
-2018 Kia Sorento,"$25,900",Below Average,Engine: 4-Cyl 2.4 Liter Theta II,Sportmatic 6 Speed Automatic with Manual Mode,L FWD,Mid-Size Utility,185@6000,21 City /  28 Hwy
-2018 Kia Niro,"$23,340",Above Average,Engine: 4-Cyl 1.6 Liter Kappa,6 Speed Automatic,FE Hatchback,Compact Utility,139@5700,52 City /  49 Hwy
-
-2018 Kia Forte,"$16,800",Average,Engine: 4-Cyl 2.0 Liter,6 Speed Manual,LX (Manual) Sedan,Passenger Car,147@6200,25 City /  34 Hwy
-2018 Kia Optima,"$22,600",Below Average,Engine: 4-Cyl 2.4 Liter Theta II,H-Matic 6 Speed Automatic Mode Select with Manual Mode,LX 2.4 Sedan,Passenger Car,185@6000,24 City /  34 Hwy
-2018 Kia Cadenza,"$44,690",N/A,Engine: V6 3.3 Liter,Sportmatic 8 Speed Automatic Mode Select with Manual Mode,Limited Sedan,Premium Passenger Car,290@6400,20 City /  28 Hwy
-2018 Kia Sportage,"$23,600",Average,Engine: 4-Cyl 2.4 Liter Theta II,Sportmatic® 6 Speed Automatic with Manual Mode,LX 2WD,Compact Utility,181@6000,23 City /  30 Hwy
-
-2018 Kia Rio,"$13,900",Above Average,Engine: 4-Cyl 1.6 Liter Gamma GDI,6 Speed Manual,LX (Manual) Sedan,Compact Passenger Car,130@6300,29 City /  37 Hwy
-2018 Lamborghini Aventador,"$417,650",N/A,Engine: V12 6.5 Liter,ISR 7 Speed Automatic,S Coupe,Luxury Performance Car,730@8400,10 City /  17 Hwy
-2018 Lamborghini Huracan,"$238,600",N/A,Engine: V10 5.2 Liter,Doppia Frizione 7 Speed Automatic,LP 610-4 Coupe,Luxury Performance Car,602@8250,14 City /  19 Hwy
-2018 Land Rover Range Rover,"$87,350",Below Average,Engine: V6 Supercharged 3.0 Liter,8 Speed Automatic Mode Select with Manual Mode (ZF 8HP70),Base,Luxury Utility,340@6500,17 City /  23 Hwy
-2018 Land Rover Range Rover Evoque,"$41,800",Below Average,Engine: 4-Cyl Turbo 2.0 Liter,9 Speed Automatic with Manual Mode (ZF 9HP),SE,Premium Compact Utility,237@5500,22 City /  29 Hwy
-2018 Land Rover Range Rover Velar,"$49,900",Average,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic with Manual Mode (ZF 8HP45),Base,Luxury Utility,247@5500,21 City /  27 Hwy
-2018 Land Rover Discovery,"$52,090",N/A,Engine: V6 Supercharged 3.0 Liter,8 Speed Automatic Mode Select with Manual Mode (ZF 8HP45),SE,Premium Compact Utility,340@6500,16 City /  21 Hwy
-2018 Land Rover Range Rover Sport,"$66,750",N/A,Engine: V6 Supercharged 3.0 Liter,CommandShift® 8 Speed Automatic Mode Select with Manual Mode (ZF 8HP70),SE,Luxury Utility,340@6500,17 City /  23 Hwy
-2018 Land Rover Discovery Sport,"$37,795",Poor,Engine: 4-Cyl Turbo 2.0 Liter Si4,9 Speed Automatic Mode Select with Manual Mode (ZF 9HP48),SE,Premium Compact Utility,237@5500,20 City /  25 Hwy
-2018 Lexus RX,"$43,270",N/A,Engine: V6 3.5 Liter,Electronically Controlled Continuously Variable Transmission with intelligence (ECVT-,350 FWD,Premium Mid-Size Utility,295@6300,20 City /  27 Hwy
-2018 Lexus IS,"$38,210",Average,Engine: 4-Cyl Turbo 2.0 Liter,ECT-i 8 Speed Automatic Mode Select with Manual Mode (AA81E),300 Sedan,Premium Compact Passenger Car,241@5800,22 City /  32 Hwy
-2018 Lexus LS,N/A,N/A,N/A,N/A,500 Sedan,N/A,N/A,19 City /  30 Hwy
-2018 Lexus ES,"$38,950",Excellent,Engine: V6 3.5 Liter,6 Speed Automatic Mode Select with Manual Mode (U660E),350 Sedan,Premium Passenger Car,268@6200,21 City /  30 Hwy
-2018 Lexus LC,"$92,000",Below Average,Engine: V8 5.0 Liter,Direct Shift 10 Speed Automatic Mode Select with Manual Mode (AGA0E),LC 500 Coupe,Luxury Performance Car,471@7100,16 City /  26 Hwy
-2018 Lexus RC,"$40,640",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic Mode Select with Manual Mode (AA81E),300 Coupe,Premium Sporty/Coupe,241@5800,22 City /  32 Hwy
-
-2018 Lexus GX,"$52,155",Excellent,Engine: V8 4.6 Liter,6 Speed Automatic Mode Select with Manual Mode (A760F),460 Base,Luxury Utility,301@5500,15 City /  18 Hwy
-
-
-2018 Lexus NX,"$35,985",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,ECT-i 6 Speed Automatic Mode Select with Manual Mode (U661E),300 FWD,Premium Compact Utility,235@4800,22 City /  28 Hwy
-2018 Lexus GS,"$46,310",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic Mode Select with Manual Mode (AA81E),300 Sedan,Luxury Passenger Car,241@5800,22 City /  32 Hwy
-
-2018 Lexus LX,"$90,380",Above Average,Engine: V8 5.7 Liter,8 Speed Automatic Mode Select with Manual Mode (AE80F),570 Sport Utility,Luxury Utility,383@5600,13 City /  18 Hwy
-
-2018 Lincoln MKX,"$39,035",Poor,Engine: V6 3.7 Liter,SelectShift® 6 Speed Automatic with Manual Mode (44J),Premier FWD,Premium Mid-Size Utility,303@6500,17 City /  25 Hwy
-2018 Lincoln MKC,"$36,110",Excellent,Engine: 4-Cyl Turbo 2.0 Liter EcoBoost,SelectShift® 6 Speed Automatic with Manual Mode,Select FWD,Premium Compact Utility,240@5500,21 City /  28 Hwy
-2018 Lincoln Navigator,"$76,055",Above Average,Engine: V6 Turbo 3.5 Liter,SelectShift® 10 Speed Automatic Mode Select with Manual Mode (44U),Select 2WD,Luxury Utility,450@5500,16 City /  23 Hwy
-2018 Lincoln MKT,"$43,530",Poor,Engine: V6 3.7 Liter,SelectShift® 6 Speed Automatic Mode Select with Manual Mode (6F-50),3.7 Premiere FWD,Premium Full-Size Utility,303@6500,16 City /  24 Hwy
-
-2018 Lincoln Continental,"$50,115",Above Average,Engine: V6 3.7 Liter,SelectShift® 6 Speed Automatic Mode Select with Manual Mode (44J),Select AWD Sedan,Luxury Passenger Car,305@6500,16 City /  24 Hwy
-
-2018 Lincoln MKZ,"$37,355",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,SelectShift® 6 Speed Automatic with Manual Mode (6F-35),Select FWD Sedan,Premium Passenger Car,245@5500,21 City /  31 Hwy
-
-2018 Maserati Levante,"$74,050",N/A,Engine: V6 Turbo 3.0 Liter,8 Speed Automatic with Manual Mode (AT8 - HP70),Base,Luxury Utility,345@5750,14 City /  20 Hwy
-2018 Maserati GranTurismo,"$132,975",N/A,Engine: V8 4.7 Liter,6 Speed Automatic Mode Select with Manual Mode (ZF 6HP26),Base Coupe,Luxury Performance Car,454@7600,13 City /  21 Hwy
-2018 Maserati Quattroporte,"$105,600",N/A,Engine: V6 Turbo 3.0 Liter,ZF-8 8 Speed Automatic Mode Select with Manual Mode (8HP70),S Sedan,Luxury Performance Car,424@5500,16 City /  23 Hwy
-2018 Maserati Ghibli,"$78,750",N/A,Engine: V6 Turbo 3.0 Liter,8 Speed Automatic Mode Select with Manual Mode (AT8 - HP70),S Sedan,Luxury Performance Car,424,16 City /  24 Hwy
-2018 Mazda CX-9,"$32,130",Below Average,Engine: 4-Cyl Turbo 2.5 Liter SKYACTIV-G,SKYACTIV-DRIVE 6 Speed Automatic Mode Select with Manual Mode,Sport FWD,Full-Size Utility,227@5000,22 City /  28 Hwy
-2018 Mazda CX-3,"$20,110",Average,Engine: 4-Cyl 2.0 Liter SKYACTIV-G®,SKYACTIV-DRIVE® 6 Speed Automatic with Manual Mode,Sport FWD Sport Utility,Compact Utility,146@6000,29 City /  34 Hwy
-2018 Mazda Mazda3,"$18,095",Above Average,Engine: 4-Cyl 2.0 Liter SKYACTIV-G®,SKYACTIV-MT® 6 Speed Manual,Sport (Manual) Sedan,Compact Passenger Car,155@6000,28 City /  38 Hwy
-2018 Mazda Miata,"$25,295",N/A,Engine: 4-Cyl 2.0 Liter SKYACTIV-G®,Continuously Variable Automatic with Manual Mode,Sport (Manual) Convertible,Convertible,155@6000,26 City /  33 Hwy
-2018 Mazda Mazda6,"$21,950",N/A,Engine: 4-Cyl 2.5 Liter SKYACTIV-G®,SKYACTIV-MT® 6 Speed Manual,Sport (Manual) Sedan,Passenger Car,187@6000,24 City /  33 Hwy
-2018 Mazda CX-5,"$24,150",Average,Engine: 4-Cyl 2.5 Liter SKYACTIV-G®,SKYACTIV-DRIVE® 6 Speed Automatic with Manual Mode,Sport FWD (Auto),Compact Utility,187@6000,25 City /  31 Hwy
-
-2018 Mercedes-Benz SLC-Class,"$48,400",Average,Engine: 4-Cyl Turbo 2.0 Liter,9G-TRONIC 9 Speed Automatic Mode Select with Manual Mode,SLC300 Convertible,Premium Performance Car,241@5500,25 City /  32 Hwy
-2018 Mercedes-Benz CLS-Class,"$75,150",Poor,Engine: V8 Turbo 4.7 Liter,9G-TRONIC 9 Speed Automatic with Manual Mode,CLS550 Sedan,Luxury Performance Car,402@5000,18 City /  26 Hwy
-2018 Mercedes-Benz GLS-Class,"$69,550",Average,Engine: V6 Turbo 3.0 Liter,9G-TRONIC 9 Speed Automatic Mode Select with Manual Mode,GLS450 Sport Utility,Luxury Utility,362@5250,17 City /  22 Hwy
-2018 Mercedes-Benz GLE-Class Coupe,"$70,500",Below Average,Engine: V6 Turbo 3.0 Liter,9G-TRONIC 9 Speed Automatic with Manual Mode,GLE43 AMG Sport Utility,Luxury Utility,385@6100,17 City /  22 Hwy
-2018 Mercedes-Benz GLA-Class,"$33,400",Average,Engine: 4-Cyl Turbo 2.0 Liter,7 Speed Automatic Mode Select,GLA250 Sport Utility,Premium Compact Utility,208@5500,24 City /  33 Hwy
-2018 Mercedes-Benz E-Class,"$52,950",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,9G-TRONIC 9 Speed Automatic Mode Select with Manual Mode,E300  Sedan,Luxury Passenger Car,241@5500,22 City /  30 Hwy
-2018 Mercedes-Benz CLA-Class,"$32,700",Below Average,Engine: 4-Cyl Turbo 2.0 Liter,7 Speed Automatic,CLA250 Sedan,Premium Compact Passenger Car,208@5500,24 City /  37 Hwy
-2018 Mercedes-Benz G-Class,"$123,600",N/A,Engine: V8 Turbo 4.0 Liter,7G-TRONIC 7 Speed Automatic Mode Select with Manual Mode (722.9),G550,Luxury Utility,416@5250,13 City /  14 Hwy
-2018 Mercedes-Benz Metris,"$33,900",N/A,Engine: 4-Cyl Turbo 2.0 Liter,7G-TRONIC 7 Speed Automatic Mode Select with Manual Mode,Base Passenger Van,Minivan,208@5500,19 City /  23 Hwy
-2018 Mercedes-Benz C-Class,"$40,250",Average,Engine: 4-Cyl Turbo 2.0 Liter,9G-TRONIC 9 Speed Automatic Mode Select with Manual Mode,C300 Sedan,Premium Compact Passenger Car,241@5550,24 City /  33 Hwy
-2018 Mercedes-Benz GLE-Class,"$52,200",Above Average,Engine: V6 3.5 Liter,7G-TRONIC PLUS 7 Speed Automatic Mode Select with Manual Mode,GLE350 Sport Utility,Luxury Utility,302@6500,18 City /  23 Hwy
-2018 Mercedes-Benz GLC-Class Coupe,"$46,600",Average,Engine: 4-Cyl Turbo 2.0 Liter,9 Speed Automatic Mode Select with Manual Mode,GLC300 Coupe ,Luxury Utility,241@5500,22 City /  27 Hwy
-2018 Mercedes-Benz S-Class,"$89,900",Poor,Engine: V6 Turbo 3.0 Liter,9G-TRONIC 9 Speed Automatic Mode Select with Manual Mode,S450  Sedan,Luxury Passenger Car,362@5500,19 City /  28 Hwy
-2018 Mercedes-Benz GLC-Class,"$40,050",Below Average,Engine: 4-Cyl Turbo 2.0 Liter,9 Speed Automatic Mode Select with Manual Mode,GLC300  Sport Utility,Premium Compact Utility,241@5500,22 City /  28 Hwy
-2018 Mercedes-Benz SL-Class,"$88,200",Below Average,Engine: V6 Turbo 3.0 Liter,9G-TRONIC 9 Speed Automatic Mode Select with Manual Mode,SL450  Convertible,Luxury Performance Car,362@5500,20 City /  28 Hwy
-2018 Mercedes-Benz AMG GT,"$112,400",Below Average,Engine: V8 Turbo 4.0 Liter AMG,AMG SPEEDSHIFT 7 Speed Automatic,Base Coupe,Luxury Performance Car,469@6000,16 City /  22 Hwy
-
-2018 MINI Clubman,"$24,800",Average,Engine: 3-Cyl Turbo 1.5 Liter,6 Speed Manual (6MTT220),Base Wagon,Compact Passenger Car,134@4400,24 City /  34 Hwy
-2018 MINI Hardtop,"$22,600",Above Average,Engine: 3-Cyl Turbo 1.5 Liter,6 Speed Manual (6MTT220),Base 4-Door Hatchback,Compact Passenger Car,134@4400,27 City /  35 Hwy
-2018 MINI Countryman,"$26,600",Below Average,Engine: 3-Cyl Turbo 1.5 Liter,6 Speed Manual (GMTT220),Base,Compact Utility,134@4400,24 City /  32 Hwy
-2018 MINI Convertible,"$26,700",Excellent,Engine: 3-Cyl Turbo 1.5 Liter,6 Speed Manual (6MTT220),Base Convertible,Convertible,134@4400,27 City /  35 Hwy
-
-2018 Mitsubishi Outlander Sport,"$20,395",Below Average,Engine: 4-Cyl 2.0 Liter,INVECS-III 5 Speed Manual,ES FWD (Manual) Sport Utility,Compact Utility,148@6000,23 City /  29 Hwy
-2018 Mitsubishi Eclipse Cross,"$26,395",N/A,Engine: 4-Cyl Turbo 1.5 Liter,Continuously Variable Automatic Mode Select with Manual Mode (F1CJC),SE AWD,Compact Utility,152@6000,25 City /  26 Hwy
-2018 Mitsubishi Mirage,"$13,395",Below Average,Engine: 3-Cyl 1.2 Liter MIVEC,5 Speed Manual (5MT),ES (Manual) Hatchback,Compact Passenger Car,78@6000,33 City /  41 Hwy
-2018 Mitsubishi Outlander,"$23,945",Poor,Engine: 4-Cyl 2.4 Liter,INVECS-III w/Sportronic Continuously Variable Automatic with Manual Mode (CVT),ES FWD,Mid-Size Utility,166@6000,25 City /  30 Hwy
-
-2018 Nissan Titan,"$35,680",N/A,Engine: V8 5.6 Liter Endurance®,7 Speed Automatic Mode Select with Manual Mode,S 2WD Crew Cab,Full-Size Pickup LD,390@5800,15 City /  21 Hwy
-2018 Nissan Murano,"$30,800",Poor,Engine: V6 3.5 Liter,Xtronic Continuously Variable Automatic,S FWD,Premium Mid-Size Utility,260@6000,21 City /  28 Hwy
-2018 Nissan Armada,"$46,090",Poor,Engine: V8 5.6 Liter,7 Speed Automatic Mode Select with Manual Mode,SV 2WD,Premium Full-Size Utility,390@5800,14 City /  19 Hwy
-2018 Nissan Sentra,"$18,275",Poor,Engine: 4-Cyl 1.8 Liter,Xtronic Continuously Variable Automatic Mode Select,S (Auto) Sedan,Compact Passenger Car,130@6000,29 City /  37 Hwy
-2018 Nissan Altima,"$23,260",Below Average,Engine: 4-Cyl 2.5 Liter,Xtronic Continuously Variable Automatic Mode Select,2.5 S Sedan,Passenger Car,179@6000,27 City /  38 Hwy
-2018 Nissan Rogue Sport,"$21,640",N/A,Engine: 4-Cyl 2.0 Liter,Xtronic Continuously Variable Automatic Mode Select with Manual Mode,S FWD,Compact Utility,141@6000,25 City /  32 Hwy
-2018 Nissan 370Z,"$41,820",Below Average,Engine: V6 3.7 Liter,7 Speed Automatic with Manual Mode,Base Convertible,Performance Car,332@7000,18 City /  25 Hwy
-2018 Nissan Kicks,N/A,N/A,N/A,N/A,S,N/A,N/A,N/A,SUV/Crossover,N/A,N/A,N/A
-2018 Nissan Pathfinder,"$31,040",Poor,Engine: V6 3.5 Liter,Xtronic Continuously Variable Automatic,S 2WD,Full-Size Utility,284@6400,20 City /  27 Hwy
-
-2018 Nissan Versa,"$14,250",Below Average,Engine: 4-Cyl 1.6 Liter,Xtronic Continuously Variable Automatic,S Plus Sedan,Compact Passenger Car,109@6000,31 City /  39 Hwy
-2018 Nissan Titan XD,"$42,490",N/A,Engine: V8 Turbo Diesel 5.0 Liter Cummins®,Aisin® 6 Speed Automatic with Manual Mode,S Diesel 2WD Crew Cab,Full-Size Pickup HD,310@3200,N/A,Truck,RWD,Diesel,6/6
-2018 Nissan GT-R,"$99,990",N/A,Engine: V6 Turbo 3.8 Liter,6 Speed Automatic (GR6),Pure Coupe,Premium Performance Car,565@6800,16 City /  22 Hwy
-2018 Nissan Rogue,"$24,800",Below Average,Engine: 4-Cyl 2.5 Liter,Xtronic Continuously Variable Automatic Mode Select,S 2WD,Compact Utility,170@6000,26 City /  33 Hwy
-2018 Nissan Versa Note,"$15,600",Below Average,Engine: 4-Cyl 1.6 Liter,Xtronic Continuously Variable Automatic,S Hatchback,Compact Passenger Car,109@6000,31 City /  39 Hwy
-2018 Nissan NV200,"$21,900",Excellent,Engine: 4-Cyl 2.0 Liter,Xtronic Continuously Variable Automatic,S Cargo Van,Cargo Van,131@5200,24 City /  26 Hwy
-2018 Nissan Frontier,"$33,790",Average,Engine: V6 4.0 Liter,5 Speed Automatic,PRO-4X 4WD (Auto) Crew Cab,Mid-Size Pickup,261@5600,15 City /  21 Hwy
-2018 Nissan Maxima,"$33,270",Poor,Engine: V6 3.5 Liter,Xtronic Continuously Variable Automatic Mode Select with Manual Mode,S Sedan,Premium Passenger Car,300@6400,21 City /  30 Hwy
-2018 Nissan LEAF,"$29,990",Average,"Motor, Single Electric",1 Speed Automatic,S Hatchback,Passenger Car,107,125 City /  100 Hwy
-2018 Nissan NV,"$28,850",N/A,Engine: V6 4.0 Liter,5 Speed Automatic,1500 S Cargo Van,Cargo Van,261@5600,N/A,Van,RWD,Unleaded Regular,2/2
-2018 Porsche 718 Boxster,"$57,400",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,6 Speed Manual,Base Convertible,Premium Performance Car,300@6500,21 City /  28 Hwy
-2018 Porsche Panamera,"$85,000",Average,Engine: V6 Turbo 3.0 Liter,Porsche Doppelkupplungsgetriebe (PDK) 8 Speed Automatic (PDK),Base Sedan,Luxury Performance Car,330@5400,21 City /  28 Hwy
-2018 Porsche 911,"$91,100",Excellent,Engine: 6-Cyl Turbo 3.0 Liter,7 Speed Manual,Carrera Coupe,Luxury Performance Car,370@6500,22 City /  30 Hwy
-2018 Porsche Macan,"$47,800",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Porsche Doppelkupplungsgetriebe (PDK) 7 Speed Automatic (PDK),Base,Premium Mid-Size Utility,252@5000,20 City /  25 Hwy
-2018 Porsche Cayenne,"$60,600",Above Average,Engine: V6 3.6 Liter,Tiptronic S 8 Speed Automatic with Manual Mode,Base,Luxury Utility,300@6300,18 City /  24 Hwy
-2018 Porsche 718 Cayman,"$55,300",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,6 Speed Manual,Base Coupe,Premium Performance Car,300@6500,21 City /  28 Hwy
-2018 Ram ProMaster,"$29,995",Below Average,Engine: V6 Flex Fuel 3.6 Liter Pentastar,AutoStick 6 Speed Automatic Mode Select with Manual Mode (62TE),1500 w/118 WB Low Roof Cargo Van,Cargo Van,280@6400,13 City /  18 Hwy
-2018 Ram 1500,"$27,095",Poor,Engine: V6 Flex Fuel 3.6 Liter Pentastar,8 Speed Automatic Mode Select with Manual Mode (845RE),Tradesman 2WD Long Bed Regular Cab,Full-Size Pickup LD,305@6400,12 City /  17 Hwy
-2018 Ram 2500,"$32,545",Poor,Engine: V8 5.7 Liter HEMI,6 Speed Automatic Mode Select with Manual Mode (66RFE),Tradesman 2WD Regular Cab,Full-Size Pickup HD,383@5600,11 City /  16 Hwy
-2018 Ram 3500,"$33,645",Poor,Engine: V8 5.7 Liter HEMI,6 Speed Automatic Mode Select with Manual Mode (66RFE),Tradesman 4WD DRW Regular Cab,Full-Size Pickup HD,383@5600,N/A,Truck,RWD,N/R,3/3
-2018 Ram ProMaster City,"$23,995",Excellent,Engine: 4-Cyl 2.4 Liter Tigershark,9 Speed Automatic with Manual Mode (948TE),Tradesman Cargo Van,Cargo Van,178@6400,21 City /  28 Hwy
-
-
-
-2018 smart fortwo,"$23,900",N/A,"Motor, Single Electric",1 Speed Automatic,electric drive pure Hatchback,Sporty/Coupe,80,124 City /  94 Hwy
-2018 Subaru Impreza,"$19,995",Above Average,Engine: 4-Cyl 2.0 Liter BOXER,Lineartronic CVT Continuously Variable Automatic,2.0i w/PZEV (Auto) Wagon,Compact Utility,152@6000,28 City /  37 Hwy
-2018 Subaru WRX,"$26,995",Average,Engine: 4-Cyl Turbo 2.0 Liter BOXER,6 Speed Manual,Base Sedan,Compact Passenger Car,268@5600,21 City /  27 Hwy
-
-2018 Subaru Outback,"$25,895",Above Average,Engine: 4-Cyl 2.5 Liter BOXER,Lineartronic CVT Continuously Variable Automatic Mode Select with Manual Mode,2.5i Wagon,Mid-Size Utility,175@5800,25 City /  32 Hwy
-2018 Subaru Forester,"$22,795",Above Average,Engine: 4-Cyl 2.5 Liter BOXER,6 Speed Manual,2.5i (Manual),Mid-Size Utility,170@5800,22 City /  28 Hwy
-2018 Subaru Legacy,"$22,195",Excellent,Engine: 4-Cyl 2.5 Liter BOXER,Lineartronic CVT Continuously Variable Automatic with Manual Mode,2.5i Sedan,Passenger Car,175@5800,25 City /  34 Hwy
-2018 Subaru Crosstrek,"$21,795",Above Average,Engine: 4-Cyl 2.0 Liter BOXER,6 Speed Manual,2.0i (Manual) Wagon,Compact Utility,152@6000,23 City /  29 Hwy
-2018 Subaru BRZ,"$29,545",N/A,Engine: 4-Cyl 2.0 Liter BOXER,6 Speed Automatic Mode Select with Manual Mode,Limited (Auto) Coupe,Sporty/Coupe,200@7000,24 City /  33 Hwy
-2018 Tesla Model S,"$74,500",N/A,"Motors, Dual Electric",1 Speed Automatic,75D Sedan,Luxury Passenger Car,328,102 City /  105 Hwy
-2018 Tesla Model X,"$79,500",N/A,"Motors, Dual Electric",1 Speed Automatic,75D,Luxury Utility,328,91 City /  95 Hwy
-2018 Tesla Model 3,"$35,000",N/A,"Motor, Single Electric",1 Speed Automatic,Base Sedan,Premium Passenger Car,N/R,123 City /  136 Hwy
-2018 Toyota Tacoma,"$28,275",Above Average,Engine: 4-Cyl 2.7 Liter,ECT-i 6 Speed Automatic Mode Select with Manual Mode,SR 4WD (Auto) Access Cab,Mid-Size Pickup,159@5200,19 City /  22 Hwy
-2018 Toyota Yaris iA,"$15,950",Above Average,Engine: 4-Cyl 1.5 Liter,6 Speed Manual,Base (Manual) Sedan,Compact Passenger Car,106@6000,30 City /  39 Hwy
-2018 Toyota Avalon Hybrid,"$37,500",Excellent,Engine: 4-Cyl 2.5 Liter,Continuously Variable Automatic (P314),XLE Plus Sedan,Premium Passenger Car,200@5700,40 City /  39 Hwy
-2018 Toyota Yaris,"$15,635",Excellent,Engine: 4-Cyl 1.5 Liter,5 Speed Manual,L (Manual) 2-Door Hatchback,Sporty/Coupe,106@6000,30 City /  36 Hwy
-2018 Toyota C-HR,"$22,500",Above Average,Engine: 4-Cyl 2.0 Liter,CVTi-S Continuously Variable Automatic Mode Select with Manual Mode,XLE,Compact Utility,144@6100,27 City /  31 Hwy
-2018 Toyota Camry,"$23,495",Excellent,Engine: 4-Cyl 2.5 Liter,ECT-i 8 Speed Automatic Mode Select with Manual Mode,L Sedan,Passenger Car,203@6600,29 City /  41 Hwy
-2018 Toyota Sienna,"$30,750",Above Average,Engine: V6 3.5 Liter,ECT-i 8 Speed Automatic Mode Select with Manual Mode,L Pass Van,Minivan,296@6600,19 City /  27 Hwy
-2018 Toyota Mirai,"$58,365",N/A,"Motor, Single Electric",1 Speed Automatic,Base Sedan,Passenger Car,153,N/A,Sedan,FWD,Electric,4/4
-2018 Toyota 4Runner,"$34,610",Excellent,Engine: V6 4.0 Liter,ECT-i 5 Speed Automatic Mode Select with Manual Mode,SR5 2WD,Mid-Size Utility,270@5600,17 City /  21 Hwy
-2018 Toyota Sequoia,"$48,600",Average,Engine: V8 5.7 Liter,6 Speed Automatic Mode Select with Manual Mode (A750E),SR5 5.7L 2WD,Premium Full-Size Utility,381@5600,13 City /  17 Hwy
-2018 Toyota Prius,"$24,685",Excellent,Engine: 4-Cyl 1.8 Liter,Continuously Variable Automatic (P112),Two Hatchback,Passenger Car,121@5200,54 City /  50 Hwy
-2018 Toyota Highlander,"$31,030",Excellent,Engine: 4-Cyl 2.7 Liter,ECT-i 6 Speed Automatic Mode Select with Manual Mode,LE 2WD,Full-Size Utility,185@5800,20 City /  24 Hwy
-2018 Toyota Camry Hybrid,"$27,800",Excellent,Engine: 4-Cyl 2.5 Liter,Continuously Variable Automatic with Manual Mode,LE Sedan,Passenger Car,208@5700,51 City /  53 Hwy
-2018 Toyota RAV4 Hybrid,"$27,235",Above Average,Engine: 4-Cyl 2.5 Liter,ECVT Continuously Variable Automatic Mode Select,LE AWD,Mid-Size Utility,194@5700,34 City /  30 Hwy
-2018 Toyota Corolla iM,"$18,850",Above Average,Engine: 4-Cyl 1.8 Liter,6 Speed Manual,Base (Manual) Hatchback,Compact Passenger Car,137@6100,27 City /  35 Hwy
-2018 Toyota Prius c,"$20,630",Above Average,Engine: 4-Cyl 1.5 Liter,Continuously Variable Automatic,One Hatchback,Compact Passenger Car,99@4800,48 City /  43 Hwy
-2018 Toyota Avalon,"$33,500",Excellent,Engine: V6 3.5 Liter,ECT-i 6 Speed Automatic Mode Select with Manual Mode (U660E),XLE Sedan,Premium Passenger Car,268@6200,21 City /  30 Hwy
-2018 Toyota Tundra,"$34,370",Excellent,Engine: V8 4.6 Liter,ECT-i 6 Speed Automatic Mode Select with Manual Mode (AB60F),SR 4.6L 4WD Short Bed Double Cab,Full-Size Pickup LD,310@5600,14 City /  18 Hwy
-2018 Toyota 86,"$26,255",N/A,Engine: 4-Cyl 2.0 Liter BOXER,6 Speed Manual,Base (Manual) Coupe,Sporty/Coupe,205@7000,21 City /  28 Hwy
-2018 Toyota RAV4,"$25,910",Average,Engine: 4-Cyl 2.5 Liter,ECT-i 6 Speed Automatic Mode Select with Manual Mode,LE AWD,Mid-Size Utility,176@6000,22 City /  28 Hwy
-2018 Toyota Corolla,"$18,600",Above Average,Engine: 4-Cyl 1.8 Liter,CVTi-S Continuously Variable Automatic,L (Auto) Sedan,Compact Passenger Car,132@6000,28 City /  36 Hwy
-
-2018 Toyota Land Cruiser,"$84,315",Excellent,Engine: V8 5.7 Liter,8 Speed Automatic Mode Select with Manual Mode,Base,Luxury Utility,381@5600,13 City /  18 Hwy
-2018 Toyota Highlander Hybrid,"$45,160",Excellent,Engine: V6 3.5 Liter,ECVT Continuously Variable Automatic Mode Select,Limited 4WD,Full-Size Utility,306@6600,29 City /  27 Hwy
-2018 Toyota Prius Prime,"$28,800",N/A,Engine: 4-Cyl 1.8 Liter,ECVT Continuously Variable Automatic Mode Select (P112),Premium Hatchback,Passenger Car,121@5200,N/A,Hatchback,FWD,Unleaded Regular,4/4
-2018 Volkswagen Golf Alltrack,"$25,955",N/A,Engine: 4-Cyl Turbo 1.8 Liter,6 Speed Manual,TSI S 4MOTION (Manual) Wagon,Compact Utility,170@4500,21 City /  30 Hwy
-
-2018 Volkswagen Tiguan,"$24,595",Average,Engine: 4-Cyl Turbo 2.0 Liter,Tiptronic® 8 Speed Automatic Mode Select with Manual Mode,2.0T S,Compact Utility,184@4400,22 City /  27 Hwy
-2018 Volkswagen Jetta,"$18,645",Excellent,Engine: 4-Cyl Turbo 1.4 Liter,5 Speed Manual,1.4T S (Manual) Sedan,Compact Passenger Car,150@5000,28 City /  40 Hwy
-2018 Volkswagen Passat,"$22,995",N/A,Engine: 4-Cyl Turbo 2.0 Liter,Tiptronic® 6 Speed Automatic Mode Select with Manual Mode,2.0T S Sedan,Passenger Car,174@5000,25 City /  36 Hwy
-2018 Volkswagen Golf,"$30,245",N/A,Engine: 4-Cyl Turbo 1.8 Liter,Tiptronic 6 Speed Automatic Mode Select with Manual Mode,TSI SEL SportWagen,Compact Utility,170@4500,24 City /  33 Hwy
-2018 Volkswagen Atlas,"$30,750",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Tiptronic 8 Speed Automatic Mode Select with Manual Mode,2.0T S,Full-Size Utility,235@4500,22 City /  26 Hwy
-2018 Volkswagen GTI,"$26,415",N/A,Engine: 4-Cyl Turbo 2.0 Liter,6 Speed Manual,S (Manual) 4-Door Hatchback,Compact Passenger Car,220@4700,25 City /  33 Hwy
-
-2018 Volkswagen Beetle,"$20,220",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Tiptronic® 6 Speed Automatic Mode Select with Manual Mode,2.0T S Hatchback,Sporty/Coupe,174@5000,26 City /  33 Hwy
-
-
-
-2018 Volvo S90,"$48,100",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic with Manual Mode (AW TG-81SC),T5 Momentum FWD Sedan,Luxury Passenger Car,250@5500,24 City /  34 Hwy
-2018 Volvo V60,"$38,250",Poor,Engine: 4-Cyl Turbo 2.0 Liter,Geartronic 8 Speed Automatic Mode Select with Manual Mode (AW TG-81SC),T5 Dynamic FWD Wagon,Premium Compact Utility,240@5600,25 City /  36 Hwy
-2018 Volvo V90,"$49,950",Poor,Engine: 4-Cyl Turbo 2.0 Liter,Geartronic 8 Speed Automatic Mode Select with Manual Mode (AW TG-81SC),T5 R-Design FWD Wagon,Luxury Utility,250@5500,24 City /  34 Hwy
-2018 Volvo XC40,N/A,N/A,N/A,N/A,Base,N/A,N/A,N/A,SUV/Crossover,N/A,N/A,N/A
-2018 Volvo XC60,"$41,500",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Geartronic 8 Speed Automatic with Manual Mode (AW TG81SC),T5 Momentum AWD,Premium Compact Utility,250@5500,22 City /  28 Hwy
-2018 Volvo XC90,"$54,350",Excellent,Engine: 4-Cyl Turbo & Supercharger 2.0 Liter,8 Speed Automatic with Manual Mode (AW TG-81SC),T6 Momentum AWD,Luxury Utility,316@5700,20 City /  27 Hwy
-2018 Volvo S60,"$34,100",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Geartronic 8 Speed Automatic Mode Select with Manual Mode (AW TF-81SC),T5 Dynamic Sedan,Premium Compact Passenger Car,240@5600,25 City /  36 Hwy
+year/make/model,price,value,engine,trans,trim,group,horsepower,mpg,
+2018 Acura RDX,"$36,000 ",Excellent,Engine: V6 3.5 Liter,Sequential SportShift 6 Speed Automatic Mode Select with Manual Mode,Base FWD,Premium Mid-Size Utility,279@6200,20 City /  28 Hwy,
+2018 Acura NSX,"$156,000 ",Average,Engine: V6 Turbo 3.5 Liter,9 Speed Automatic,Base Coupe,Luxury Performance Car,573@6500,21 City /  22 Hwy,
+2018 Acura MDX,"$44,200 ",Below Average,Engine: V6 3.5 Liter,Sequential SportShift 9 Speed Automatic Mode Select with Manual Mode,Base FWD,Premium Full-Size Utility,290@6200,19 City /  27 Hwy,
+2018 Acura TLX,"$33,000 ",Excellent,Engine: 4-Cyl 2.4 Liter,8 Speed Automatic,2.4 Sedan,Premium Passenger Car,206@6800,23 City /  33 Hwy,
+2018 Acura ILX,"$28,100 ",Average,Engine: 4-Cyl 2.4 Liter,8 Speed Automatic,Base Sedan,Compact Passenger Car,201@6800,25 City /  35 Hwy,
+2018 Acura RLX,"$54,900 ",Average,Engine: V6 3.5 Liter,Sequential SportShift 10 Speed Automatic Mode Select with Manual Mode,P-AWS Sedan,Luxury Passenger Car,310@6500,20 City /  29 Hwy,
+2018 Alfa Romeo Stelvio,"$41,995 ",Below Average,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic Mode Select with Manual Mode (8HP50),Base,Premium Compact Utility,280@5200,22 City /  28 Hwy,
+2018 Alfa Romeo 4C,"$65,900 ",Average,Engine: 4-Cyl Turbo 1.7 Liter,6 Speed Automatic (DA5),Spider,Premium Performance Car,237@6000,24 City /  34 Hwy,
+2018 Alfa Romeo Giulia,"$38,195 ",Average,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic with Manual Mode (8HP50),Base Sedan,Premium Compact Passenger Car,280@5200,24 City /  33 Hwy,
+2018 Aston Martin Vanquish,N/A,N/A,N/A,N/A,Base Coupe,N/A,N/A,N/A,Coupe
+2018 Aston Martin DB11,N/A,N/A,N/A,N/A,Base Coupe,N/A,N/A,N/A,Coupe
+2018 Audi S8,"$115,900 ",Poor,Engine: V8 Turbo 4.0 Liter TFSI®,Tiptronic® 8 Speed Automatic Mode Select with Manual Mode,plus quattro Sedan,Luxury Performance Car,605,14 City /  24 Hwy,
+2018 Audi S7,"$81,200 ",Below Average,Engine: V8 Turbo 4.0 Liter,S tronic 7 Speed Automatic,Premium Plus quattro Hatchback,Luxury Performance Car,450@5800,16 City /  24 Hwy,
+2018 Audi TT,"$43,950 ",Below Average,Engine: 4-Cyl Turbo 2.0 Liter,S tronic 6 Speed Automatic,quattro Coupe,Premium Sporty/Coupe,220@4500,23 City /  30 Hwy,
+2018 Audi A7,"$69,700 ",Average,Engine: V6 Supercharged 3.0 Liter,Tiptronic 8 Speed Automatic Mode Select with Manual Mode,3.0T Premium Plus quattro Hatchback,Luxury Passenger Car,340@5300,20 City /  29 Hwy,
+2018 Audi S3,"$43,650 ",Below Average,Engine: 4-Cyl Turbo 2.0 Liter TFSI®,S tronic® 6 Speed Automatic,Premium Plus quattro Sedan,Premium Performance Car,292@5400,22 City /  28 Hwy,
+2018 Audi A6,"$49,700 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,S tronic® 7 Speed Automatic (G),2.0T Premium Sedan,Luxury Passenger Car,252@5000,25 City /  34 Hwy,
+2018 Audi Q5,"$41,500 ",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,S tronic® 7 Speed Automatic,2.0T Premium quattro,Premium Compact Utility,252@5000,23 City /  27 Hwy,
+2018 Audi allroad,"$44,500 ",Average,Engine: 4-Cyl Turbo 2.0 Liter,S tronic® 7 Speed Automatic Mode Select,2.0T Premium quattro Wagon,Premium Compact Utility,252@5000,22 City /  30 Hwy,
+2018 Audi A8,"$82,500 ",Poor,Engine: V6 Supercharged 3.0 Liter TFSI®,Tiptronic® 8 Speed Automatic Mode Select with Manual Mode,L 3.0T quattro Sedan,Luxury Passenger Car,333@5300,19 City /  29 Hwy,
+2018 Audi A4,"$36,000 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,S tronic® 7 Speed Automatic,2.0T ultra Premium Sedan,Premium Compact Passenger Car,190@4200,27 City /  37 Hwy,
+2018 Audi Q3,"$32,900 ",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,Tiptronic® 6 Speed Automatic Mode Select with Manual Mode (X),2.0T Premium,Premium Compact Utility,200@5100,20 City /  28 Hwy,
+2018 Audi A5,"$42,600 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter TFSI®,S tronic® 7 Speed Automatic,2.0T Premium quattro Sportback,Luxury Passenger Car,252@5000,24 City /  34 Hwy,
+2018 Audi Q7,"$49,900 ",Above Average,Engine: 4-Cyl Turbo 2.0 Liter TFSI®,Tiptronic® 8 Speed Automatic Mode Select with Manual Mode,2.0T Premium quattro,Luxury Utility,252@5000,20 City /  25 Hwy,
+2018 Audi RS 7,"$113,900 ",Below Average,Engine: V8 Turbo 4.0 Liter,Tiptronic 8 Speed Automatic Mode Select with Manual Mode,Prestige quattro Hatchback,Luxury Performance Car,560@5700,14 City /  24 Hwy,
+2018 Audi R8,"$164,900 ",Below Average,Engine: V10 5.2 Liter,S tronic® 7 Speed Automatic,5.2 (Auto) Coupe,Luxury Performance Car,540@7800,14 City /  22 Hwy,
+2018 Audi S5,"$54,400 ",Below Average,Engine: V6 Turbo 3.0 Liter TFSI®,Tiptronic® 8 Speed Automatic with Manual Mode,Premium Plus quattro Sportback,Premium Performance Car,354@5400,21 City /  30 Hwy,
+2018 Audi A3,"$31,950 ",Above Average,Engine: 4-Cyl Turbo 2.0 Liter TFSI®,S tronic® 7 Speed Automatic,2.0T Premium Sedan,Premium Compact Passenger Car,186@4400,26 City /  35 Hwy,
+2018 Audi S4,"$50,900 ",Above Average,Engine: V6 Turbo 3.0 Liter,Tiptronic® 8 Speed Automatic with Manual Mode,Premium Plus quattro Sedan,Premium Performance Car,354@5400,21 City /  30 Hwy,
+2018 Audi S6,"$71,900 ",Poor,Engine: V8 Turbo 4.0 Liter,S tronic® 7 Speed Automatic (Y),Premium Plus quattro Sedan,Premium Performance Car,450@5800,16 City /  24 Hwy,
+2018 Audi SQ5,"$54,300 ",Below Average,Engine: V6 Turbo 3.0 Liter,Tiptronic® 8 Speed Automatic Mode Select with Manual Mode (A),Premium Plus quattro,Premium Compact Utility,354@5400,19 City /  24 Hwy,
+2018 Audi RS 3,"$54,900 ",Poor,Engine: 5-Cyl Turbo 2.5 Liter TFSI®,S tronic® 7 Speed Automatic,Base quattro Sedan,Premium Performance Car,400@5850,19 City /  28 Hwy,
+2018 Bentley Continental GT,"$264,300 ",N/A,Engine: W12 Turbo Flex Fuel 6.0 Liter,8 Speed Automatic with Manual Mode (8HP90),Speed Convertible,Luxury Performance Car,633@6000,9 City /  15 Hwy,
+2018 Bentley Bentayga,"$232,800 ",N/A,Engine: W12 Turbo 6.0 Liter,8 Speed Automatic with Manual Mode (ZF AL952),W12,Luxury Utility,599@5000,12 City /  19 Hwy,
+2018 Bentley Mulsanne,N/A,N/A,N/A,N/A,Base Sedan,N/A,N/A,N/A,Sedan
+2018 Bentley Flying Spur,"$189,000 ",N/A,Engine: V8 Turbo 4.0 Liter,8 Speed Automatic Mode Select with Manual Mode (8HP90),V8 Sedan,Luxury Passenger Car,500@6000,13 City /  22 Hwy,
+2018 BMW 7-Series,"$83,100 ",Below Average,Engine: 6-Cyl Turbo 3.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP50),740i Sedan,Luxury Passenger Car,320@5500,21 City /  29 Hwy,
+2018 BMW M5,"$102,600 ",N/A,Engine: V8 Turbo 4.4 Liter,Steptronic 8 Speed Automatic with Manual Mode (M8HP75),Base Sedan,Luxury Performance Car,600@5700,N/A,Sedan
+2018 BMW 4-Series,"$43,300 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic Mode Select with Manual Mode (8HP50),430i Gran Coupe,Premium Compact Passenger Car,248@5200,24 City /  34 Hwy,
+2018 BMW X4,"$47,600 ",Average,Engine: 4-Cyl Turbo 2.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP45),xDrive28i,Premium Compact Utility,240@5000,20 City /  28 Hwy,
+2018 BMW X5,"$57,200 ",Above Average,Engine: 6-Cyl Turbo 3.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP45),sDrive35i,Luxury Utility,300@5800,18 City /  25 Hwy,
+2018 BMW X6,"$62,950 ",Below Average,Engine: 6-Cyl Turbo 3.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP45),sDrive35i,Luxury Utility,300@5800,18 City /  25 Hwy,
+2018 BMW X1,"$33,900 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (AISIN F22),sDrive28i,Premium Compact Utility,228@5000,23 City /  32 Hwy,
+2018 BMW X2,"$36,400 ",N/A,Engine: 4-Cyl Turbo 2.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode,sDrive28i,Premium Compact Utility,228@5000,21 City /  31 Hwy,
+2018 BMW M4,"$68,700 ",Average,Engine: 6-Cyl Turbo 3.0 Liter,6 Speed Manual (K),Base Coupe,Premium Performance Car,425@5500,17 City /  25 Hwy,
+2018 BMW M3,"$66,500 ",Average,Engine: 6-Cyl Turbo 3.0 Liter,6 Speed Manual (K),Base Sedan,Premium Performance Car,425@5500,17 City /  25 Hwy,
+2018 BMW 5-Series,"$52,650 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP50),530i Sedan,Luxury Passenger Car,248@5200,24 City /  34 Hwy,
+2018 BMW M6,"$119,800 ",Poor,Engine: V8 Turbo 4.4 Liter,7 Speed Automatic (M-DKG 436),Base Gran Coupe,Luxury Performance Car,560@6000,15 City /  22 Hwy,
+2018 BMW X3,"$42,650 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP50),xDrive30i,Premium Compact Utility,248@5200,21 City /  28 Hwy,
+2018 BMW 3-Series,"$34,900 ",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP45),320i Sedan,Premium Compact Passenger Car,180@5000,24 City /  35 Hwy,
+2018 BMW M2,"$54,500 ",Poor,Engine: 6-Cyl Turbo 3.0 Liter,Steptronic 6 Speed Manual (K),Base Coupe,Premium Performance Car,365@6500,20 City /  26 Hwy,
+2018 BMW i3,"$44,450 ",N/A,"Motor, Single Electric",1 Speed Automatic (GE1B132H),Base Hatchback,Premium Compact Passenger Car,170,129 City /  106 Hwy,
+2018 BMW 2-Series,"$34,950 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP50),230i Coupe,Premium Sporty/Coupe,248@5200,24 City /  35 Hwy,
+2018 BMW 6-Series,"$70,200 ",Below Average,Engine: 6-Cyl Turbo 3.0 Liter,Steptronic 8 Speed Automatic Mode Select with Manual Mode (8HP50),640i xDrive Gran Turismo,Luxury Performance Car,335@5500,20 City /  28 Hwy,
+2018 Buick Regal,"$24,990 ",Poor,Engine: 4-Cyl Turbo 2.0 Liter EcoTec,9 Speed Automatic with Manual Mode,ISV FWD Sportback,Passenger Car,250@5400,22 City /  32 Hwy,
+2018 Buick Enclave,"$39,995 ",Below Average,Engine: V6 3.6 Liter,Hydra-Matic 9 Speed Automatic with Manual Mode (9T65),Base FWD,Full-Size Utility,302@6800,18 City /  26 Hwy,
+2018 Buick Encore,"$22,990 ",Average,Engine: 4-Cyl Turbo 1.4 Liter Ecotec,Hydra-Matic 6 Speed Automatic with Manual Mode (6T40),1SV,Compact Utility,138@4900,27 City /  33 Hwy,
+2018 Buick LaCrosse,"$29,565 ",Above Average,Engine: 4-Cyl 2.5 Liter,Hydra-Matic 6 Speed Automatic Mode Select with Manual Mode (6T40),Base Sedan,Premium Passenger Car,194@6300,25 City /  35 Hwy,
+2018 Buick Cascada,"$33,065 ",Below Average,Engine: 4-Cyl Turbo 1.6 Liter,6 Speed Automatic (MH7),1SV Convertible,Convertible,200@5500,21 City /  29 Hwy,
+2018 Buick Envision,"$33,995 ",N/A,Engine: 4-Cyl 2.5 Liter Ecotec,6 Speed Automatic with Manual Mode (MHG),Base FWD,Premium Compact Utility,197@6300,22 City /  29 Hwy,
+2018 Cadillac XTS,"$46,395 ",Above Average,Engine: V6 3.6 Liter,Hydra-Matic 6 Speed Automatic Mode Select with Manual Mode (6T70),Base Sedan,Luxury Passenger Car,304@6800,19 City /  28 Hwy,
+2018 Cadillac ATS,"$35,495 ",Below Average,Engine: 4-Cyl Turbo 2.0 Liter Ecotec,Hydra-Matic 8 Speed Automatic Mode Select with Manual Mode (8L45),2.0 RWD Sedan,Premium Compact Passenger Car,272@5500,N/A,Sedan
+2018 Cadillac Escalade,"$74,695 ",Excellent,Engine: V8 6.2 Liter EcoTec3,10 Speed Automatic Mode Select with Manual Mode,Base 2WD,Luxury Utility,420@5600,14 City /  23 Hwy,
+2018 Cadillac XT5,"$40,595 ",Above Average,Engine: V6 3.6 Liter,8 Speed Automatic Mode Select with Manual Mode (AWF8F45),Base FWD,Luxury Utility,310@6600,19 City /  26 Hwy,
+2018 Cadillac CTS,"$46,495 ",Above Average,Engine: 4-Cyl Turbo 2.0 Liter Ecotec,Hydra-Matic 8 Speed Automatic Mode Select with Manual Mode (8L45),2.0 RWD Sedan,Luxury Passenger Car,268@5600,22 City /  30 Hwy,
+2018 Cadillac CT6,"$54,095 ",Average,Engine: 4-Cyl Turbo 2.0 Liter Ecotec,Hydra-Matic 8 Speed Automatic with Manual Mode (8L45),2.0 Sedan,Luxury Passenger Car,265@5500,22 City /  30 Hwy,
+2018 Chevrolet Trax,"$21,000 ",Below Average,Engine: 4-Cyl Turbo 1.4 Liter EcoTec,Hydra-Matic 6 Speed Automatic with Manual Mode (MNK-6T40),LS FWD,Compact Utility,138@4900,25 City /  33 Hwy,
+2018 Chevrolet Malibu Hybrid,"$27,920 ",Above Average,Engine: 4-Cyl 1.8 Liter Ecotec,8 Speed Automatic with Manual Mode (AWF8F45),Base Sedan,Passenger Car,124@5000,49 City /  43 Hwy,
+2018 Chevrolet Tahoe,"$47,500 ",Excellent,Engine: V8 5.3 Liter EcoTec3,Hydra-Matic 6 Speed Automatic Mode Select with Manual Mode (6L80),LS 2WD,Premium Full-Size Utility,355@5600,16 City /  23 Hwy,
+2018 Chevrolet Colorado,"$20,200 ",Average,Engine: 4-Cyl 2.5 Liter,Eaton N8D 6 Speed Manual (N8D),Base 2WD Extended Cab,Mid-Size Pickup,200@6300,20 City /  26 Hwy,
+2018 Chevrolet City Express,"$22,855 ",Excellent,Engine: 4-Cyl 2.0 Liter,Xtronic Continuously Variable Automatic (MRA),LS Cargo Van,Cargo Van,131@5200,24 City /  26 Hwy,
+2018 Chevrolet Sonic,"$17,720 ",Below Average,Engine: 4-Cyl Turbo 1.4 Liter Ecotec,6 Speed Manual,LT (Manual) Sedan,Compact Passenger Car,138@4900,28 City /  37 Hwy,
+2018 Chevrolet Corvette,"$55,495 ",Above Average,Engine: V8 6.2 Liter,Tremec 7 Speed Manual (TR6070),Stingray 1LT Coupe,Premium Performance Car,455@6000,16 City /  25 Hwy,
+2018 Chevrolet Volt,"$33,220 ",Excellent,Engine: 4-Cyl 1.5 Liter,Continuously Variable Automatic,LT Sedan,Passenger Car,149@5600,N/A,Hatchback
+2018 Chevrolet Malibu,"$21,680 ",Above Average,Engine: 4-Cyl Turbo 1.5 Liter Ecotec,Hydra-Matic 6 Speed Automatic with Manual Mode (6T40),L Sedan,Passenger Car,160@5700,27 City /  36 Hwy,
+2018 Chevrolet Traverse,"$29,930 ",Above Average,Engine: V6 3.6 Liter,9 Speed Automatic with Manual Mode (9T65),L FWD,Full-Size Utility,310@6800,18 City /  27 Hwy,
+2018 Chevrolet Spark,"$15,975 ",Average,Engine: 4-Cyl 1.4 Liter Ecotec,Jatco Continuously Variable Automatic (MR8),1LT (Auto) Hatchback,Compact Passenger Car,98@6200,30 City /  38 Hwy,
+2018 Chevrolet Bolt EV,"$36,620 ",N/A,"Motor, Single Electric",1 Speed Automatic,LT  Hatchback,Compact Passenger Car,200,128 City /  110 Hwy,
+2018 Chevrolet Impala,"$27,895 ",Poor,Engine: 4-Cyl 2.5 Liter Ecotec,Hydra-Matic 6 Speed Automatic with Manual Mode (6T40),LS Sedan,Passenger Car,196@6300,22 City /  30 Hwy,
+2018 Chevrolet Express,"$31,295 ",N/A,Engine: V6 Flex Fuel 4.3 Liter,8 Speed Automatic Mode Select with Manual Mode (8L90),2500 Cargo Van Regular,Cargo Van,276@5200,N/A,Van
+2018 Chevrolet Suburban,"$50,200 ",Above Average,Engine: V8 5.3 Liter EcoTec3,6 Speed Automatic Mode Select with Manual Mode (6L80),1500 LS 2WD,Premium Full-Size Utility,355@5600,16 City /  23 Hwy,
+2018 Chevrolet Silverado 2500HD,"$34,400 ",Below Average,Engine: V8 Flex Fuel 6.0 Liter Vortec,Hydra-Matic 6 Speed Automatic Mode Select with Manual Mode (6L90),Work Truck 2WD Regular Cab,Full-Size Pickup HD,360@5400,11 City /  16 Hwy,
+2018 Chevrolet Camaro,"$25,905 ",Poor,Engine: 4-Cyl Turbo 2.0 Liter,Tremec 6 Speed Manual (TR6060),1LS Coupe,Sporty/Coupe,275@5600,20 City /  30 Hwy,
+2018 Chevrolet Equinox,"$23,580 ",Average,Engine: 4-Cyl Turbo 1.5 Liter,Hydra-Matic 6 Speed Automatic Mode Select with Manual Mode (6T40),L FWD,Mid-Size Utility,170@5600,26 City /  32 Hwy,
+2018 Chevrolet Silverado 1500,"$28,300 ",Above Average,Engine: V6 Flex Fuel 4.3 Liter EcoTec3,Hydra-Matic 6 Speed Automatic Mode Select with Manual Mode (6L80),Work Truck 1WT 2WD Standard Bed Regular Cab,Full-Size Pickup LD,285@5300,18 City /  24 Hwy,
+2018 Chevrolet Silverado 3500HD,"$35,500 ",Below Average,Engine: V8 Flex Fuel 6.0 Liter Vortec,6 Speed Automatic Mode Select with Manual Mode (6L90),Work Truck 2WD SRW Regular Cab,Full-Size Pickup HD,360@5400,11 City /  16 Hwy,
+2018 Chevrolet Cruze,"$16,975 ",Above Average,Engine: 4-Cyl Turbo 1.4 Liter Ecotec,6 Speed Manual (MF3),L Sedan,Compact Passenger Car,153@5600,27 City /  40 Hwy,
+2018 Chrysler Pacifica,"$29,795 ",Below Average,Engine: V6 3.6 Liter Pentastar™,9 Speed Automatic Mode Select (948TE),LX,Minivan,287@6400,19 City /  28 Hwy,
+2018 Chrysler Pacifica Plug-in,"$44,995 ",Excellent,Engine: V6 3.6 Liter Pentastar™,eFlite EVT Continuously Variable Automatic (DFQ),Limited,Minivan,248@5800,N/A,Van
+2018 Chrysler 300,"$37,545 ",Average,Engine: V6 3.6 Liter Pentastar™,TorqueFlite® 8 Speed Automatic Mode Select with Manual Mode (845RE),Limited RWD Sedan,Premium Passenger Car,292@6350,19 City /  30 Hwy,
+2018 Dodge Grand Caravan,"$26,250 ",Poor,Engine: V6 Flex Fuel 3.6 Liter Pentastar,AutoStick 6 Speed Automatic Mode Select with Manual Mode (62TE),SE Pass Van,Minivan,283@6400,12 City /  18 Hwy,
+2018 Dodge Charger,"$28,995 ",Above Average,Engine: V6 3.6 Liter Pentastar,TorqueFlite® 8 Speed Automatic with Manual Mode (8HP45),SXT Sedan,Premium Passenger Car,292@6350,19 City /  30 Hwy,
+2018 Dodge Durango,"$29,995 ",Above Average,Engine: V6 3.6 Liter Pentastar,TorqueFlite® 8 Speed Automatic Mode Select with Manual Mode (845RE),SXT RWD,Full-Size Utility,295@6400,19 City /  26 Hwy,
+2018 Dodge Challenger,"$27,295 ",Above Average,Engine: V6 3.6 Liter PentaStar,TorqueFlite® 8 Speed Automatic Mode Select with Manual Mode (845RE),SXT Coupe,Sporty/Coupe,305@6350,19 City /  30 Hwy,
+2018 Dodge Journey,"$22,995 ",Poor,Engine: 4-Cyl 2.4 Liter,AutoStick 4 Speed Automatic Mode Select with Manual Mode (40TES),SE FWD,Mid-Size Utility,173@6000,19 City /  25 Hwy,
+2018 FIAT 124 Spider,"$24,995 ",Above Average,Engine: 4-Cyl Turbo 1.4 Liter MultiAir,6 Speed Manual (C635),Classica,Performance Car,160@5500,26 City /  35 Hwy,
+2018 FIAT 500L,"$20,995 ",Poor,Engine: 4-Cyl Turbo 1.4 Liter MultiAir,6 Speed Automatic (F21-250),Pop Hatchback,Compact Passenger Car,160@5500,22 City /  30 Hwy,
+2018 FIAT 500,"$16,245 ",N/A,Engine: 4-Cyl Turbo 1.4 Liter MultiAir,5 Speed Manual (C510),Pop Hatchback,Sporty/Coupe,135@5500,N/A,Hatchback
+2018 FIAT 500X,"$19,995 ",Poor,Engine: 4-Cyl Turbo 1.4 Liter MultiAir,6 Speed Manual (C635),Pop 2WD,Compact Utility,160@5500,25 City /  33 Hwy,
+2018 Ford Taurus,"$27,690 ",Poor,Engine: V6 Flex Fuel 3.5 Liter Duratec,SelectShift 6 Speed Automatic with Manual Mode (6F50),SE Sedan,Premium Passenger Car,288@6500,13 City /  20 Hwy,
+2018 Ford Transit Connect,"$23,215 ",Excellent,Engine: 4-Cyl Flex Fuel 2.5 Liter Duratec®,SelectShift® 6 Speed Automatic Mode Select with Manual Mode (6F35),XL SWB Cargo Van,Cargo Van,169@6000,20 City /  27 Hwy,
+2018 Ford Expedition,"$51,790 ",Above Average,Engine: V6 Turbo 3.5 Liter EcoBoost®,SelectShift 10 Speed Automatic Mode Select with Manual Mode (44U),XLT 2WD,Premium Full-Size Utility,375@5000,17 City /  24 Hwy,
+2018 Ford Mustang,"$25,680 ",Average,Engine: 4-Cyl Turbo 2.3 Liter EcoBoost®,6 Speed Manual (MT82),EcoBoost Coupe,Sporty/Coupe,310@5500,21 City /  31 Hwy,
+2018 Ford Fiesta,"$14,205 ",Below Average,Engine: 4-Cyl 1.6 Liter Duratec,5 Speed Manual,S Sedan,Compact Passenger Car,120@5000,27 City /  35 Hwy,
+2018 Ford Fusion,"$22,215 ",Below Average,Engine: 4-Cyl 2.5 Liter,6 Speed Automatic Mode Select,S Sedan,Passenger Car,175@6000,21 City /  32 Hwy,
+2018 Ford C-MAX,"$24,120 ",Below Average,Engine: 4-Cyl 2.0 Liter Atkinson,eCVT Continuously Variable Automatic (HF35),SE Hybrid Wagon,Compact Utility,188@6000,42 City /  38 Hwy,
+2018 Ford Flex,"$30,285 ",Poor,Engine: V6 3.5 Liter Duratec,SelectShift 6 Speed Automatic with Manual Mode (44J),SE,Full-Size Utility,287@6500,16 City /  23 Hwy,
+2018 Ford Escape,"$23,940 ",Poor,Engine: 4-Cyl Flex Fuel 2.5 Liter,SelectShift 6 Speed Automatic with Manual Mode (L40D),S,Mid-Size Utility,168@6000,15 City /  22 Hwy,
+2018 Ford Focus Electric,"$29,120 ",Below Average,"Motor, Single Electric",1 Speed Automatic,Base Hatchback,Compact Passenger Car,143,118 City /  96 Hwy,
+2018 Ford Edge,"$29,315 ",Below Average,Engine: 4-Cyl Turbo 2.0 Liter EcoBoost,SelectShift 6 Speed Automatic with Manual Mode (6F50),SE 2WD,Mid-Size Utility,245@5500,20 City /  29 Hwy,
+2018 Ford F-350,"$34,155 ",Poor,Engine: V8 Flex Fuel 6.2 Liter,TorqShift® 6 Speed Automatic Mode Select with Manual Mode (6R140),XL 2WD SRW Super Duty Regular Cab,Full-Size Pickup HD,385@5750,12 City /  18 Hwy,
+2018 Ford EcoSport,"$19,995 ",N/A,Engine: 3-Cyl Turbo 1.0 Liter,SelectShift® 6 Speed Automatic Mode Select with Manual Mode (447),S FWD,Compact Utility,123@6000,27 City /  29 Hwy,
+2018 Ford Transit,"$32,380 ",Below Average,Engine: V6 3.7 Liter,SelectShift® 6 Speed Automatic with Manual Mode (446),150 w/130 WB & 60/40 Door Low Roof Cargo Van,Cargo Van,275@6000,14 City /  18 Hwy,
+2018 Ford Explorer,"$32,140 ",Poor,Engine: V6 3.5 Liter,SelectShift 6 Speed Automatic Mode Select with Manual Mode (44J),Base 2WD,Full-Size Utility,290@6500,N/A,SUV/Crossover
+2018 Ford Fusion Hybrid,"$25,390 ",Above Average,Engine: 4-Cyl 2.0 Liter Atkinson,eCVT Continuously Variable Automatic (HF35),S Sedan,Passenger Car,188@6000,43 City /  41 Hwy,
+2018 Ford Focus,"$17,950 ",Poor,Engine: 4-Cyl 2.0 Liter Duratec,5 Speed Manual (44Z),S Sedan,Compact Passenger Car,160@6500,N/A,Sedan
+2018 Ford GT,N/A,N/A,N/A,N/A,Base Coupe,N/A,N/A,N/A,Coupe
+2018 Ford F-250,"$32,985 ",Below Average,Engine: V8 Flex Fuel 6.2 Liter,TorqShift®-G 6 Speed Automatic Mode Select with Manual Mode (6R100),Super Duty XL 2WD Regular Cab,Full-Size Pickup HD,385@5750,12 City /  18 Hwy,
+2018 Ford F-150,"$27,705 ",Above Average,Engine: V6 Flex Fuel 3.3 Liter,SelectShift® 6 Speed Automatic Mode Select with Manual Mode (6R80E),XL 2WD Short Bed Regular Cab,Full-Size Pickup LD,290@6500,N/A,Truck
+2018 Genesis G80,"$41,750 ",Above Average,Engine: V6 3.8 Liter Lambda,SHIFTRONIC 8 Speed Automatic Mode Select with Manual Mode,3.8 RWD Sedan,Premium Passenger Car,311@6000,19 City /  27 Hwy,
+2018 Genesis G90,"$68,350 ",Poor,Engine: V6 Turbo 3.3 Liter,SHIFTRONIC 8 Speed Automatic Mode Select with Manual Mode,Premium Sedan,Luxury Passenger Car,365@6000,17 City /  24 Hwy,
+2018 GMC Savana,"$31,295 ",Below Average,Engine: V6 4.3 Liter,8 Speed Automatic Mode Select (8L90),2500 Cargo Van Regular,Cargo Van,276@5200,13 City /  18 Hwy,
+2018 GMC Sierra 2500HD,"$35,000 ",Below Average,Engine: V8 Flex Fuel 6.0 Liter Vortec,6 Speed Automatic Mode Select with Manual Mode (6L90),2WD Regular Cab,Full-Size Pickup HD,360@5400,11 City /  16 Hwy,
+2018 GMC Terrain,"$24,995 ",Average,Engine: 4-Cyl Turbo 1.5 Liter,9 Speed Automatic Mode Select with Manual Mode (9T45),SL FWD,Mid-Size Utility,170@5600,26 City /  30 Hwy,
+2018 GMC Acadia,"$29,000 ",Average,Engine: 4-Cyl 2.5 Liter Ecotec,Hydra-Matic 6 Speed Automatic with Manual Mode (6T50),SL FWD,Full-Size Utility,194@6300,21 City /  26 Hwy,
+2018 GMC Sierra 3500HD,"$36,100 ",Poor,Engine: V8 Flex Fuel 6.0 Liter Vortec,6 Speed Automatic Mode Select with Manual Mode (6L90),Base 2WD SRW Regular Cab,Full-Size Pickup HD,360@5400,11 City /  16 Hwy,
+2018 GMC Yukon,"$49,100 ",Excellent,Engine: V8 5.3 Liter EcoTec3,Hydra-Matic 6 Speed Automatic Mode Select with Manual Mode (6L80),SLE 2WD,Premium Full-Size Utility,355@5600,16 City /  23 Hwy,
+2018 GMC Sierra 1500,"$29,000 ",Poor,Engine: V6 Flex Fuel 4.3 Liter EcoTec3,Hydra-Matic 6 Speed Automatic Mode Select (6L80),Base 2WD Standard Bed Regular Cab,Full-Size Pickup LD,285@5300,12 City /  16 Hwy,
+2018 GMC Canyon,"$21,100 ",Below Average,Engine: 4-Cyl 2.5 Liter EcoTec,Eaton 6 Speed Manual (N8D),SL 2WD Extended Cab,Mid-Size Pickup,200@6300,20 City /  26 Hwy,
+2018 Honda Odyssey,"$29,990 ",Excellent,Engine: V6 3.5 Liter Earth Dreams Technology™,9 Speed Automatic Mode Select with Manual Mode,LX,Minivan,280@6000,19 City /  28 Hwy,
+2018 Honda Accord Hybrid,"$25,100 ",N/A,Engine: 4-Cyl 2.0 Liter,Continuously Variable Automatic Mode Select,Base Sedan,Passenger Car,212@6200,47 City /  47 Hwy,
+2018 Honda Clarity,"$33,400 ",N/A,Engine: 4-Cyl 1.5 Liter,Continuously Variable Automatic,Plug-in Hybrid Sedan,Passenger Car,212@5500,N/A,Sedan
+2018 Honda Fit,"$16,190 ",Excellent,Engine: 4-Cyl 1.5 Liter Earth Dreams Technology™,6 Speed Manual,LX (Manual) Hatchback,Compact Passenger Car,130@6600,29 City /  36 Hwy,
+2018 Honda Pilot,"$30,900 ",Above Average,Engine: V6 3.5 Liter,6 Speed Automatic,LX 2WD,Full-Size Utility,280@6000,19 City /  27 Hwy,
+2018 Honda Ridgeline,"$29,730 ",Above Average,Engine: V6 3.5 Liter,6 Speed Automatic,RT 2WD,Mid-Size Pickup,280@6000,19 City /  26 Hwy,
+2018 Honda Civic,"$18,940 ",Above Average,Engine: 4-Cyl 2.0 Liter,6 Speed Manual,LX (Manual) Sedan,Compact Passenger Car,158@6500,28 City /  40 Hwy,
+2018 Honda CR-V,"$24,250 ",Average,Engine: 4-Cyl 2.4 Liter Earth Dreams Technology™,Continuously Variable Automatic Mode Select,LX 2WD,Mid-Size Utility,184@6400,26 City /  32 Hwy,
+2018 Honda HR-V,"$19,670 ",Above Average,Engine: 4-Cyl 1.8 Liter,6 Speed Manual,LX 2WD (Manual),Compact Utility,141@6500,25 City /  33 Hwy,
+2018 Honda Accord,"$23,570 ",Excellent,Engine: 4-Cyl Turbo 1.5 Liter,Continuously Variable Automatic Mode Select,1.5T LX Sedan,Passenger Car,192@5500,30 City /  38 Hwy,
+2018 Hyundai Tucson,"$22,550 ",N/A,Engine: 4-Cyl 2.0 Liter Nu,SHIFTRONIC® 6 Speed Automatic Mode Select with Manual Mode (A6MF1),SE FWD,Compact Utility,164@6200,23 City /  30 Hwy,
+2018 Hyundai Accent,"$14,995 ",Above Average,Engine: 4-Cyl 1.6 Liter Gamma,6 Speed Manual (M6CF1),SE (Manual) Sedan,Compact Passenger Car,130@6300,28 City /  37 Hwy,
+2018 Hyundai Santa Fe Sport,"$24,950 ",Below Average,Engine: 4-Cyl 2.4 Liter Theta II,SHIFTRONIC 6 Speed Automatic with Manual Mode,Base FWD,Mid-Size Utility,185@6000,21 City /  27 Hwy,
+2018 Hyundai Santa Fe,"$30,850 ",Below Average,Engine: V6 3.3 Liter Lambda II,SHIFTRONIC 6 Speed Automatic with Manual Mode,SE FWD,Mid-Size Utility,290@6400,18 City /  25 Hwy,
+2018 Hyundai Kona,"$19,500 ",N/A,Engine: 4-Cyl 2.0 Liter,SHIFTRONIC® 6 Speed Automatic Mode Select with Manual Mode (A6MF1),SE FWD,Compact Utility,147@6200,27 City /  33 Hwy,
+2018 Hyundai Ioniq,"$22,200 ",N/A,Engine: 4-Cyl 1.6 Liter Atkinson,EcoShift® 6 Speed Automatic,Hybrid Blue Sedan,Compact Passenger Car,139@5700,57 City /  59 Hwy,
+2018 Hyundai Elantra,"$17,950 ",Above Average,Engine: 4-Cyl 2.0 Liter Nu,SHIFTRONIC 6 Speed Automatic Mode Select with Manual Mode (A6GF1),SE Sedan,Passenger Car,147@6200,29 City /  38 Hwy,
+2018 Hyundai Sonata Hybrid,N/A,N/A,N/A,N/A,Base Sedan,N/A,N/A,N/A,Sedan
+2018 Hyundai Sonata,"$22,050 ",Average,Engine: 4-Cyl 2.4 Liter Theta II,SHIFTRONIC 6 Speed Automatic Mode Select with Manual Mode,SE Sedan,Passenger Car,185@6000,25 City /  36 Hwy,
+2018 Infiniti Q70,"$50,300 ",Average,Engine: V6 3.7 Liter,7 Speed Automatic Mode Select with Manual Mode,3.7 LUXE Sedan,Luxury Passenger Car,330@7000,18 City /  25 Hwy,
+2018 Infiniti Q60,"$39,950 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,7 Speed Automatic Mode Select with Manual Mode,2.0t PURE Coupe,Premium Sporty/Coupe,208@5500,22 City /  30 Hwy,
+2018 Infiniti Q50,"$35,200 ",Average,Engine: 4-Cyl Turbo 2.0 Liter,7 Speed Automatic Mode Select with Manual Mode,2.0t PURE Sedan,Premium Passenger Car,208@5500,23 City /  30 Hwy,
+2018 Infiniti QX30,"$29,950 ",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,7 Speed Automatic,Base,Premium Compact Utility,208@5500,24 City /  33 Hwy,
+2018 Infiniti QX80,"$64,750 ",N/A,Engine: V8 5.6 Liter,Adaptive Shift Control (ASC) 7 Speed Automatic Mode Select with Manual Mode,Base 2WD,Luxury Utility,400@5800,14 City /  20 Hwy,
+2018 Infiniti QX60,"$43,300 ",Average,Engine: V6 3.5 Liter,Continuously Variable Automatic Mode Select with Manual Mode,RWD,Premium Full-Size Utility,295@6400,20 City /  27 Hwy,
+2018 Jaguar E-PACE,"$38,600 ",Below Average,Engine: 4-Cyl Turbo 2.0 Liter,9 Speed Automatic with Manual Mode (ZF 9HP48),Base Sport Utility,Premium Compact Utility,246@5500,21 City /  28 Hwy,
+2018 Jaguar XJ,"$75,400 ",Poor,Engine: V6 Supercharged 3.0 Liter,Jaguar Sequential Shift™ 8 Speed Automatic Mode Select with Manual Mode (ZF 8HP45),R-Sport Sedan,Luxury Passenger Car,340@6500,18 City /  27 Hwy,
+2018 Jaguar F-PACE,"$42,065 ",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,ZF 8 Speed Automatic Mode Select with Manual Mode (ZF 8HP70),25t,Luxury Utility,247@5500,22 City /  27 Hwy,
+2018 Jaguar XE,"$35,725 ",Average,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic with Manual Mode (ZF 8HP45),25t Sedan,Premium Compact Passenger Car,247@5500,25 City /  34 Hwy,
+2018 Jaguar F-Type,"$59,900 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,ZF 8 Speed Automatic Mode Select with Manual Mode (ZF-8HP70),2018.5 296hp Coupe,Premium Sporty/Coupe,296@5500,23 City /  30 Hwy,
+2018 Jaguar XF,"$47,775 ",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,Jaguar Sequential Shift 8 Speed Automatic Mode Select with Manual Mode (ZF8HP45),25t Sedan,Luxury Passenger Car,247@5500,25 City /  34 Hwy,
+2018 Jeep Renegade,"$18,445 ",Below Average,Engine: 4-Cyl Turbo 1.4 Liter,6 Speed Manual (C635),Sport 2WD,Compact Utility,160@5500,24 City /  31 Hwy,
+2018 Jeep Grand Cherokee,"$30,895 ",Excellent,Engine: V6 3.6 Liter Pentastar,8 Speed Automatic Mode Select with Manual Mode (850RE),Laredo 2WD,Premium Mid-Size Utility,295@6400,19 City /  26 Hwy,
+2018 Jeep Wrangler JK,"$23,995 ",Excellent,Engine: V6 3.6 Liter Pentastar,6 Speed Manual (NSG370),Sport,Compact Utility,285@6400,17 City /  21 Hwy,
+2018 Jeep Compass,"$21,095 ",Average,Engine: 4-Cyl 2.4 Liter,6 Speed Manual (C635),Sport 2WD,Compact Utility,180@6400,22 City /  31 Hwy,
+2018 Jeep Wrangler,"$29,195 ",Excellent,Engine: V6 3.6 Liter Pentastar,6 Speed Manual (NSG370),Golden Eagle,Compact Utility,285@6400,17 City /  21 Hwy,
+2018 Jeep Cherokee,"$24,395 ",Average,Engine: 4-Cyl 2.4 Liter Tigershark,9 Speed Automatic with Manual Mode (948TE),Latitude 2WD,Mid-Size Utility,184@6400,21 City /  30 Hwy,
+2018 Karma Revero,"$130,000 ",N/A,Engine: 4-Cyl Turbo 2.0 Liter Ecotec,1 Speed Automatic Mode Select,Base Sedan,Luxury Passenger Car,403@5300,N/A,Sedan
+2018 Kia Soul,"$16,200 ",Above Average,Engine: 4-Cyl 1.6 Liter Gamma GDI,6 Speed Manual,(Manual) Wagon,Compact Utility,130@6300,24 City /  30 Hwy,
+2018 Kia Optima Hybrid,"$30,990 ",N/A,Engine: 4-Cyl 2.0 Liter Nu 2.0 GDI,Sportmatic 6 Speed Automatic Mode Select with Manual Mode,EX Sedan,Passenger Car,192@6000,39 City /  46 Hwy,
+2018 Kia Stinger,"$31,900 ",Average,Engine: 4-Cyl Turbo 2.0 Liter Theta II,8 Speed Automatic Mode Select with Manual Mode,Base Hatchback,Premium Passenger Car,255@6200,22 City /  29 Hwy,
+2018 Kia Sedona,"$27,000 ",Poor,Engine: V6 3.3 Liter Lambda II,Sportmatic 6 Speed Automatic Mode Select with Manual Mode,L,Minivan,276@6000,18 City /  24 Hwy,
+2018 Kia Sorento,"$25,900 ",Below Average,Engine: 4-Cyl 2.4 Liter Theta II,Sportmatic 6 Speed Automatic with Manual Mode,L FWD,Mid-Size Utility,185@6000,21 City /  28 Hwy,
+2018 Kia Niro,"$23,340 ",Above Average,Engine: 4-Cyl 1.6 Liter Kappa,6 Speed Automatic,FE Hatchback,Compact Utility,139@5700,52 City /  49 Hwy,
+2018 Kia Forte,"$16,800 ",Average,Engine: 4-Cyl 2.0 Liter,6 Speed Manual,LX (Manual) Sedan,Passenger Car,147@6200,25 City /  34 Hwy,
+2018 Kia Optima,"$22,600 ",Below Average,Engine: 4-Cyl 2.4 Liter Theta II,H-Matic 6 Speed Automatic Mode Select with Manual Mode,LX 2.4 Sedan,Passenger Car,185@6000,24 City /  34 Hwy,
+2018 Kia Cadenza,"$44,690 ",N/A,Engine: V6 3.3 Liter,Sportmatic 8 Speed Automatic Mode Select with Manual Mode,Limited Sedan,Premium Passenger Car,290@6400,20 City /  28 Hwy,
+2018 Kia Sportage,"$23,600 ",Average,Engine: 4-Cyl 2.4 Liter Theta II,Sportmatic® 6 Speed Automatic with Manual Mode,LX 2WD,Compact Utility,181@6000,23 City /  30 Hwy,
+2018 Kia Rio,"$13,900 ",Above Average,Engine: 4-Cyl 1.6 Liter Gamma GDI,6 Speed Manual,LX (Manual) Sedan,Compact Passenger Car,130@6300,29 City /  37 Hwy,
+2018 Lamborghini Aventador,"$417,650 ",N/A,Engine: V12 6.5 Liter,ISR 7 Speed Automatic,S Coupe,Luxury Performance Car,730@8400,10 City /  17 Hwy,
+2018 Lamborghini Huracan,"$238,600 ",N/A,Engine: V10 5.2 Liter,Doppia Frizione 7 Speed Automatic,LP 610-4 Coupe,Luxury Performance Car,602@8250,14 City /  19 Hwy,
+2018 Land Rover Range Rover,"$87,350 ",Below Average,Engine: V6 Supercharged 3.0 Liter,8 Speed Automatic Mode Select with Manual Mode (ZF 8HP70),Base,Luxury Utility,340@6500,17 City /  23 Hwy,
+2018 Land Rover Range Rover Evoque,"$41,800 ",Below Average,Engine: 4-Cyl Turbo 2.0 Liter,9 Speed Automatic with Manual Mode (ZF 9HP),SE,Premium Compact Utility,237@5500,22 City /  29 Hwy,
+2018 Land Rover Range Rover Velar,"$49,900 ",Average,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic with Manual Mode (ZF 8HP45),Base,Luxury Utility,247@5500,21 City /  27 Hwy,
+2018 Land Rover Discovery,"$52,090 ",N/A,Engine: V6 Supercharged 3.0 Liter,8 Speed Automatic Mode Select with Manual Mode (ZF 8HP45),SE,Premium Compact Utility,340@6500,16 City /  21 Hwy,
+2018 Land Rover Range Rover Sport,"$66,750 ",N/A,Engine: V6 Supercharged 3.0 Liter,CommandShift® 8 Speed Automatic Mode Select with Manual Mode (ZF 8HP70),SE,Luxury Utility,340@6500,17 City /  23 Hwy,
+2018 Land Rover Discovery Sport,"$37,795 ",Poor,Engine: 4-Cyl Turbo 2.0 Liter Si4,9 Speed Automatic Mode Select with Manual Mode (ZF 9HP48),SE,Premium Compact Utility,237@5500,20 City /  25 Hwy,
+2018 Lexus RX,"$43,270 ",N/A,Engine: V6 3.5 Liter,Electronically Controlled Continuously Variable Transmission with intelligence (ECVT-,350 FWD,Premium Mid-Size Utility,295@6300,20 City /  27 Hwy,
+2018 Lexus IS,"$38,210 ",Average,Engine: 4-Cyl Turbo 2.0 Liter,ECT-i 8 Speed Automatic Mode Select with Manual Mode (AA81E),300 Sedan,Premium Compact Passenger Car,241@5800,22 City /  32 Hwy,
+2018 Lexus LS,N/A,N/A,N/A,N/A,500 Sedan,N/A,N/A,19 City /  30 Hwy,
+2018 Lexus ES,"$38,950 ",Excellent,Engine: V6 3.5 Liter,6 Speed Automatic Mode Select with Manual Mode (U660E),350 Sedan,Premium Passenger Car,268@6200,21 City /  30 Hwy,
+2018 Lexus LC,"$92,000 ",Below Average,Engine: V8 5.0 Liter,Direct Shift 10 Speed Automatic Mode Select with Manual Mode (AGA0E),LC 500 Coupe,Luxury Performance Car,471@7100,16 City /  26 Hwy,
+2018 Lexus RC,"$40,640 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic Mode Select with Manual Mode (AA81E),300 Coupe,Premium Sporty/Coupe,241@5800,22 City /  32 Hwy,
+2018 Lexus GX,"$52,155 ",Excellent,Engine: V8 4.6 Liter,6 Speed Automatic Mode Select with Manual Mode (A760F),460 Base,Luxury Utility,301@5500,15 City /  18 Hwy,
+2018 Lexus NX,"$35,985 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,ECT-i 6 Speed Automatic Mode Select with Manual Mode (U661E),300 FWD,Premium Compact Utility,235@4800,22 City /  28 Hwy,
+2018 Lexus GS,"$46,310 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic Mode Select with Manual Mode (AA81E),300 Sedan,Luxury Passenger Car,241@5800,22 City /  32 Hwy,
+2018 Lexus LX,"$90,380 ",Above Average,Engine: V8 5.7 Liter,8 Speed Automatic Mode Select with Manual Mode (AE80F),570 Sport Utility,Luxury Utility,383@5600,13 City /  18 Hwy,
+2018 Lincoln MKX,"$39,035 ",Poor,Engine: V6 3.7 Liter,SelectShift® 6 Speed Automatic with Manual Mode (44J),Premier FWD,Premium Mid-Size Utility,303@6500,17 City /  25 Hwy,
+2018 Lincoln MKC,"$36,110 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter EcoBoost,SelectShift® 6 Speed Automatic with Manual Mode,Select FWD,Premium Compact Utility,240@5500,21 City /  28 Hwy,
+2018 Lincoln Navigator,"$76,055 ",Above Average,Engine: V6 Turbo 3.5 Liter,SelectShift® 10 Speed Automatic Mode Select with Manual Mode (44U),Select 2WD,Luxury Utility,450@5500,16 City /  23 Hwy,
+2018 Lincoln MKT,"$43,530 ",Poor,Engine: V6 3.7 Liter,SelectShift® 6 Speed Automatic Mode Select with Manual Mode (6F-50),3.7 Premiere FWD,Premium Full-Size Utility,303@6500,16 City /  24 Hwy,
+2018 Lincoln Continental,"$50,115 ",Above Average,Engine: V6 3.7 Liter,SelectShift® 6 Speed Automatic Mode Select with Manual Mode (44J),Select AWD Sedan,Luxury Passenger Car,305@6500,16 City /  24 Hwy,
+2018 Lincoln MKZ,"$37,355 ",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,SelectShift® 6 Speed Automatic with Manual Mode (6F-35),Select FWD Sedan,Premium Passenger Car,245@5500,21 City /  31 Hwy,
+2018 Maserati Levante,"$74,050 ",N/A,Engine: V6 Turbo 3.0 Liter,8 Speed Automatic with Manual Mode (AT8 - HP70),Base,Luxury Utility,345@5750,14 City /  20 Hwy,
+2018 Maserati GranTurismo,"$132,975 ",N/A,Engine: V8 4.7 Liter,6 Speed Automatic Mode Select with Manual Mode (ZF 6HP26),Base Coupe,Luxury Performance Car,454@7600,13 City /  21 Hwy,
+2018 Maserati Quattroporte,"$105,600 ",N/A,Engine: V6 Turbo 3.0 Liter,ZF-8 8 Speed Automatic Mode Select with Manual Mode (8HP70),S Sedan,Luxury Performance Car,424@5500,16 City /  23 Hwy,
+2018 Maserati Ghibli,"$78,750 ",N/A,Engine: V6 Turbo 3.0 Liter,8 Speed Automatic Mode Select with Manual Mode (AT8 - HP70),S Sedan,Luxury Performance Car,424,16 City /  24 Hwy,
+2018 Mazda CX-9,"$32,130 ",Below Average,Engine: 4-Cyl Turbo 2.5 Liter SKYACTIV-G,SKYACTIV-DRIVE 6 Speed Automatic Mode Select with Manual Mode,Sport FWD,Full-Size Utility,227@5000,22 City /  28 Hwy,
+2018 Mazda CX-3,"$20,110 ",Average,Engine: 4-Cyl 2.0 Liter SKYACTIV-G®,SKYACTIV-DRIVE® 6 Speed Automatic with Manual Mode,Sport FWD Sport Utility,Compact Utility,146@6000,29 City /  34 Hwy,
+2018 Mazda Mazda3,"$18,095 ",Above Average,Engine: 4-Cyl 2.0 Liter SKYACTIV-G®,SKYACTIV-MT® 6 Speed Manual,Sport (Manual) Sedan,Compact Passenger Car,155@6000,28 City /  38 Hwy,
+2018 Mazda Miata,"$25,295 ",N/A,Engine: 4-Cyl 2.0 Liter SKYACTIV-G®,Continuously Variable Automatic with Manual Mode,Sport (Manual) Convertible,Convertible,155@6000,26 City /  33 Hwy,
+2018 Mazda Mazda6,"$21,950 ",N/A,Engine: 4-Cyl 2.5 Liter SKYACTIV-G®,SKYACTIV-MT® 6 Speed Manual,Sport (Manual) Sedan,Passenger Car,187@6000,24 City /  33 Hwy,
+2018 Mazda CX-5,"$24,150 ",Average,Engine: 4-Cyl 2.5 Liter SKYACTIV-G®,SKYACTIV-DRIVE® 6 Speed Automatic with Manual Mode,Sport FWD (Auto),Compact Utility,187@6000,25 City /  31 Hwy,
+2018 Mercedes-Benz SLC-Class,"$48,400 ",Average,Engine: 4-Cyl Turbo 2.0 Liter,9G-TRONIC 9 Speed Automatic Mode Select with Manual Mode,SLC300 Convertible,Premium Performance Car,241@5500,25 City /  32 Hwy,
+2018 Mercedes-Benz CLS-Class,"$75,150 ",Poor,Engine: V8 Turbo 4.7 Liter,9G-TRONIC 9 Speed Automatic with Manual Mode,CLS550 Sedan,Luxury Performance Car,402@5000,18 City /  26 Hwy,
+2018 Mercedes-Benz GLS-Class,"$69,550 ",Average,Engine: V6 Turbo 3.0 Liter,9G-TRONIC 9 Speed Automatic Mode Select with Manual Mode,GLS450 Sport Utility,Luxury Utility,362@5250,17 City /  22 Hwy,
+2018 Mercedes-Benz GLE-Class Coupe,"$70,500 ",Below Average,Engine: V6 Turbo 3.0 Liter,9G-TRONIC 9 Speed Automatic with Manual Mode,GLE43 AMG Sport Utility,Luxury Utility,385@6100,17 City /  22 Hwy,
+2018 Mercedes-Benz GLA-Class,"$33,400 ",Average,Engine: 4-Cyl Turbo 2.0 Liter,7 Speed Automatic Mode Select,GLA250 Sport Utility,Premium Compact Utility,208@5500,24 City /  33 Hwy,
+2018 Mercedes-Benz E-Class,"$52,950 ",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,9G-TRONIC 9 Speed Automatic Mode Select with Manual Mode,E300  Sedan,Luxury Passenger Car,241@5500,22 City /  30 Hwy,
+2018 Mercedes-Benz CLA-Class,"$32,700 ",Below Average,Engine: 4-Cyl Turbo 2.0 Liter,7 Speed Automatic,CLA250 Sedan,Premium Compact Passenger Car,208@5500,24 City /  37 Hwy,
+2018 Mercedes-Benz G-Class,"$123,600 ",N/A,Engine: V8 Turbo 4.0 Liter,7G-TRONIC 7 Speed Automatic Mode Select with Manual Mode (722.9),G550,Luxury Utility,416@5250,13 City /  14 Hwy,
+2018 Mercedes-Benz Metris,"$33,900 ",N/A,Engine: 4-Cyl Turbo 2.0 Liter,7G-TRONIC 7 Speed Automatic Mode Select with Manual Mode,Base Passenger Van,Minivan,208@5500,19 City /  23 Hwy,
+2018 Mercedes-Benz C-Class,"$40,250 ",Average,Engine: 4-Cyl Turbo 2.0 Liter,9G-TRONIC 9 Speed Automatic Mode Select with Manual Mode,C300 Sedan,Premium Compact Passenger Car,241@5550,24 City /  33 Hwy,
+2018 Mercedes-Benz GLE-Class,"$52,200 ",Above Average,Engine: V6 3.5 Liter,7G-TRONIC PLUS 7 Speed Automatic Mode Select with Manual Mode,GLE350 Sport Utility,Luxury Utility,302@6500,18 City /  23 Hwy,
+2018 Mercedes-Benz GLC-Class Coupe,"$46,600 ",Average,Engine: 4-Cyl Turbo 2.0 Liter,9 Speed Automatic Mode Select with Manual Mode,GLC300 Coupe ,Luxury Utility,241@5500,22 City /  27 Hwy,
+2018 Mercedes-Benz S-Class,"$89,900 ",Poor,Engine: V6 Turbo 3.0 Liter,9G-TRONIC 9 Speed Automatic Mode Select with Manual Mode,S450  Sedan,Luxury Passenger Car,362@5500,19 City /  28 Hwy,
+2018 Mercedes-Benz GLC-Class,"$40,050 ",Below Average,Engine: 4-Cyl Turbo 2.0 Liter,9 Speed Automatic Mode Select with Manual Mode,GLC300  Sport Utility,Premium Compact Utility,241@5500,22 City /  28 Hwy,
+2018 Mercedes-Benz SL-Class,"$88,200 ",Below Average,Engine: V6 Turbo 3.0 Liter,9G-TRONIC 9 Speed Automatic Mode Select with Manual Mode,SL450  Convertible,Luxury Performance Car,362@5500,20 City /  28 Hwy,
+2018 Mercedes-Benz AMG GT,"$112,400 ",Below Average,Engine: V8 Turbo 4.0 Liter AMG,AMG SPEEDSHIFT 7 Speed Automatic,Base Coupe,Luxury Performance Car,469@6000,16 City /  22 Hwy,
+2018 MINI Clubman,"$24,800 ",Average,Engine: 3-Cyl Turbo 1.5 Liter,6 Speed Manual (6MTT220),Base Wagon,Compact Passenger Car,134@4400,24 City /  34 Hwy,
+2018 MINI Hardtop,"$22,600 ",Above Average,Engine: 3-Cyl Turbo 1.5 Liter,6 Speed Manual (6MTT220),Base 4-Door Hatchback,Compact Passenger Car,134@4400,27 City /  35 Hwy,
+2018 MINI Countryman,"$26,600 ",Below Average,Engine: 3-Cyl Turbo 1.5 Liter,6 Speed Manual (GMTT220),Base,Compact Utility,134@4400,24 City /  32 Hwy,
+2018 MINI Convertible,"$26,700 ",Excellent,Engine: 3-Cyl Turbo 1.5 Liter,6 Speed Manual (6MTT220),Base Convertible,Convertible,134@4400,27 City /  35 Hwy,
+2018 Mitsubishi Outlander Sport,"$20,395 ",Below Average,Engine: 4-Cyl 2.0 Liter,INVECS-III 5 Speed Manual,ES FWD (Manual) Sport Utility,Compact Utility,148@6000,23 City /  29 Hwy,
+2018 Mitsubishi Eclipse Cross,"$26,395 ",N/A,Engine: 4-Cyl Turbo 1.5 Liter,Continuously Variable Automatic Mode Select with Manual Mode (F1CJC),SE AWD,Compact Utility,152@6000,25 City /  26 Hwy,
+2018 Mitsubishi Mirage,"$13,395 ",Below Average,Engine: 3-Cyl 1.2 Liter MIVEC,5 Speed Manual (5MT),ES (Manual) Hatchback,Compact Passenger Car,78@6000,33 City /  41 Hwy,
+2018 Mitsubishi Outlander,"$23,945 ",Poor,Engine: 4-Cyl 2.4 Liter,INVECS-III w/Sportronic Continuously Variable Automatic with Manual Mode (CVT),ES FWD,Mid-Size Utility,166@6000,25 City /  30 Hwy,
+2018 Nissan Titan,"$35,680 ",N/A,Engine: V8 5.6 Liter Endurance®,7 Speed Automatic Mode Select with Manual Mode,S 2WD Crew Cab,Full-Size Pickup LD,390@5800,15 City /  21 Hwy,
+2018 Nissan Murano,"$30,800 ",Poor,Engine: V6 3.5 Liter,Xtronic Continuously Variable Automatic,S FWD,Premium Mid-Size Utility,260@6000,21 City /  28 Hwy,
+2018 Nissan Armada,"$46,090 ",Poor,Engine: V8 5.6 Liter,7 Speed Automatic Mode Select with Manual Mode,SV 2WD,Premium Full-Size Utility,390@5800,14 City /  19 Hwy,
+2018 Nissan Sentra,"$18,275 ",Poor,Engine: 4-Cyl 1.8 Liter,Xtronic Continuously Variable Automatic Mode Select,S (Auto) Sedan,Compact Passenger Car,130@6000,29 City /  37 Hwy,
+2018 Nissan Altima,"$23,260 ",Below Average,Engine: 4-Cyl 2.5 Liter,Xtronic Continuously Variable Automatic Mode Select,2.5 S Sedan,Passenger Car,179@6000,27 City /  38 Hwy,
+2018 Nissan Rogue Sport,"$21,640 ",N/A,Engine: 4-Cyl 2.0 Liter,Xtronic Continuously Variable Automatic Mode Select with Manual Mode,S FWD,Compact Utility,141@6000,25 City /  32 Hwy,
+2018 Nissan 370Z,"$41,820 ",Below Average,Engine: V6 3.7 Liter,7 Speed Automatic with Manual Mode,Base Convertible,Performance Car,332@7000,18 City /  25 Hwy,
+2018 Nissan Kicks,N/A,N/A,N/A,N/A,S,N/A,N/A,N/A,SUV/Crossover
+2018 Nissan Pathfinder,"$31,040 ",Poor,Engine: V6 3.5 Liter,Xtronic Continuously Variable Automatic,S 2WD,Full-Size Utility,284@6400,20 City /  27 Hwy,
+2018 Nissan Versa,"$14,250 ",Below Average,Engine: 4-Cyl 1.6 Liter,Xtronic Continuously Variable Automatic,S Plus Sedan,Compact Passenger Car,109@6000,31 City /  39 Hwy,
+2018 Nissan Titan XD,"$42,490 ",N/A,Engine: V8 Turbo Diesel 5.0 Liter Cummins®,Aisin® 6 Speed Automatic with Manual Mode,S Diesel 2WD Crew Cab,Full-Size Pickup HD,310@3200,N/A,Truck
+2018 Nissan GT-R,"$99,990 ",N/A,Engine: V6 Turbo 3.8 Liter,6 Speed Automatic (GR6),Pure Coupe,Premium Performance Car,565@6800,16 City /  22 Hwy,
+2018 Nissan Rogue,"$24,800 ",Below Average,Engine: 4-Cyl 2.5 Liter,Xtronic Continuously Variable Automatic Mode Select,S 2WD,Compact Utility,170@6000,26 City /  33 Hwy,
+2018 Nissan Versa Note,"$15,600 ",Below Average,Engine: 4-Cyl 1.6 Liter,Xtronic Continuously Variable Automatic,S Hatchback,Compact Passenger Car,109@6000,31 City /  39 Hwy,
+2018 Nissan NV200,"$21,900 ",Excellent,Engine: 4-Cyl 2.0 Liter,Xtronic Continuously Variable Automatic,S Cargo Van,Cargo Van,131@5200,24 City /  26 Hwy,
+2018 Nissan Frontier,"$33,790 ",Average,Engine: V6 4.0 Liter,5 Speed Automatic,PRO-4X 4WD (Auto) Crew Cab,Mid-Size Pickup,261@5600,15 City /  21 Hwy,
+2018 Nissan Maxima,"$33,270 ",Poor,Engine: V6 3.5 Liter,Xtronic Continuously Variable Automatic Mode Select with Manual Mode,S Sedan,Premium Passenger Car,300@6400,21 City /  30 Hwy,
+2018 Nissan LEAF,"$29,990 ",Average,"Motor, Single Electric",1 Speed Automatic,S Hatchback,Passenger Car,107,125 City /  100 Hwy,
+2018 Nissan NV,"$28,850 ",N/A,Engine: V6 4.0 Liter,5 Speed Automatic,1500 S Cargo Van,Cargo Van,261@5600,N/A,Van
+2018 Porsche 718 Boxster,"$57,400 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,6 Speed Manual,Base Convertible,Premium Performance Car,300@6500,21 City /  28 Hwy,
+2018 Porsche Panamera,"$85,000 ",Average,Engine: V6 Turbo 3.0 Liter,Porsche Doppelkupplungsgetriebe (PDK) 8 Speed Automatic (PDK),Base Sedan,Luxury Performance Car,330@5400,21 City /  28 Hwy,
+2018 Porsche 911,"$91,100 ",Excellent,Engine: 6-Cyl Turbo 3.0 Liter,7 Speed Manual,Carrera Coupe,Luxury Performance Car,370@6500,22 City /  30 Hwy,
+2018 Porsche Macan,"$47,800 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Porsche Doppelkupplungsgetriebe (PDK) 7 Speed Automatic (PDK),Base,Premium Mid-Size Utility,252@5000,20 City /  25 Hwy,
+2018 Porsche Cayenne,"$60,600 ",Above Average,Engine: V6 3.6 Liter,Tiptronic S 8 Speed Automatic with Manual Mode,Base,Luxury Utility,300@6300,18 City /  24 Hwy,
+2018 Porsche 718 Cayman,"$55,300 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,6 Speed Manual,Base Coupe,Premium Performance Car,300@6500,21 City /  28 Hwy,
+2018 Ram ProMaster,"$29,995 ",Below Average,Engine: V6 Flex Fuel 3.6 Liter Pentastar,AutoStick 6 Speed Automatic Mode Select with Manual Mode (62TE),1500 w/118 WB Low Roof Cargo Van,Cargo Van,280@6400,13 City /  18 Hwy,
+2018 Ram 1500,"$27,095 ",Poor,Engine: V6 Flex Fuel 3.6 Liter Pentastar,8 Speed Automatic Mode Select with Manual Mode (845RE),Tradesman 2WD Long Bed Regular Cab,Full-Size Pickup LD,305@6400,12 City /  17 Hwy,
+2018 Ram 2500,"$32,545 ",Poor,Engine: V8 5.7 Liter HEMI,6 Speed Automatic Mode Select with Manual Mode (66RFE),Tradesman 2WD Regular Cab,Full-Size Pickup HD,383@5600,11 City /  16 Hwy,
+2018 Ram 3500,"$33,645 ",Poor,Engine: V8 5.7 Liter HEMI,6 Speed Automatic Mode Select with Manual Mode (66RFE),Tradesman 4WD DRW Regular Cab,Full-Size Pickup HD,383@5600,N/A,Truck
+2018 Ram ProMaster City,"$23,995 ",Excellent,Engine: 4-Cyl 2.4 Liter Tigershark,9 Speed Automatic with Manual Mode (948TE),Tradesman Cargo Van,Cargo Van,178@6400,21 City /  28 Hwy,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+2018 smart fortwo,"$23,900 ",N/A,"Motor, Single Electric",1 Speed Automatic,electric drive pure Hatchback,Sporty/Coupe,80,124 City /  94 Hwy,
+2018 Subaru Impreza,"$19,995 ",Above Average,Engine: 4-Cyl 2.0 Liter BOXER,Lineartronic CVT Continuously Variable Automatic,2.0i w/PZEV (Auto) Wagon,Compact Utility,152@6000,28 City /  37 Hwy,
+2018 Subaru WRX,"$26,995 ",Average,Engine: 4-Cyl Turbo 2.0 Liter BOXER,6 Speed Manual,Base Sedan,Compact Passenger Car,268@5600,21 City /  27 Hwy,
+,,,,,,,,,
+2018 Subaru Outback,"$25,895 ",Above Average,Engine: 4-Cyl 2.5 Liter BOXER,Lineartronic CVT Continuously Variable Automatic Mode Select with Manual Mode,2.5i Wagon,Mid-Size Utility,175@5800,25 City /  32 Hwy,
+2018 Subaru Forester,"$22,795 ",Above Average,Engine: 4-Cyl 2.5 Liter BOXER,6 Speed Manual,2.5i (Manual),Mid-Size Utility,170@5800,22 City /  28 Hwy,
+2018 Subaru Legacy,"$22,195 ",Excellent,Engine: 4-Cyl 2.5 Liter BOXER,Lineartronic CVT Continuously Variable Automatic with Manual Mode,2.5i Sedan,Passenger Car,175@5800,25 City /  34 Hwy,
+2018 Subaru Crosstrek,"$21,795 ",Above Average,Engine: 4-Cyl 2.0 Liter BOXER,6 Speed Manual,2.0i (Manual) Wagon,Compact Utility,152@6000,23 City /  29 Hwy,
+2018 Subaru BRZ,"$29,545 ",N/A,Engine: 4-Cyl 2.0 Liter BOXER,6 Speed Automatic Mode Select with Manual Mode,Limited (Auto) Coupe,Sporty/Coupe,200@7000,24 City /  33 Hwy,
+2018 Tesla Model S,"$74,500 ",N/A,"Motors, Dual Electric",1 Speed Automatic,75D Sedan,Luxury Passenger Car,328,102 City /  105 Hwy,
+2018 Tesla Model X,"$79,500 ",N/A,"Motors, Dual Electric",1 Speed Automatic,75D,Luxury Utility,328,91 City /  95 Hwy,
+2018 Tesla Model 3,"$35,000 ",N/A,"Motor, Single Electric",1 Speed Automatic,Base Sedan,Premium Passenger Car,N/R,123 City /  136 Hwy,
+2018 Toyota Tacoma,"$28,275 ",Above Average,Engine: 4-Cyl 2.7 Liter,ECT-i 6 Speed Automatic Mode Select with Manual Mode,SR 4WD (Auto) Access Cab,Mid-Size Pickup,159@5200,19 City /  22 Hwy,
+2018 Toyota Yaris iA,"$15,950 ",Above Average,Engine: 4-Cyl 1.5 Liter,6 Speed Manual,Base (Manual) Sedan,Compact Passenger Car,106@6000,30 City /  39 Hwy,
+2018 Toyota Avalon Hybrid,"$37,500 ",Excellent,Engine: 4-Cyl 2.5 Liter,Continuously Variable Automatic (P314),XLE Plus Sedan,Premium Passenger Car,200@5700,40 City /  39 Hwy,
+2018 Toyota Yaris,"$15,635 ",Excellent,Engine: 4-Cyl 1.5 Liter,5 Speed Manual,L (Manual) 2-Door Hatchback,Sporty/Coupe,106@6000,30 City /  36 Hwy,
+2018 Toyota C-HR,"$22,500 ",Above Average,Engine: 4-Cyl 2.0 Liter,CVTi-S Continuously Variable Automatic Mode Select with Manual Mode,XLE,Compact Utility,144@6100,27 City /  31 Hwy,
+2018 Toyota Camry,"$23,495 ",Excellent,Engine: 4-Cyl 2.5 Liter,ECT-i 8 Speed Automatic Mode Select with Manual Mode,L Sedan,Passenger Car,203@6600,29 City /  41 Hwy,
+2018 Toyota Sienna,"$30,750 ",Above Average,Engine: V6 3.5 Liter,ECT-i 8 Speed Automatic Mode Select with Manual Mode,L Pass Van,Minivan,296@6600,19 City /  27 Hwy,
+2018 Toyota Mirai,"$58,365 ",N/A,"Motor, Single Electric",1 Speed Automatic,Base Sedan,Passenger Car,153,N/A,Sedan
+2018 Toyota 4Runner,"$34,610 ",Excellent,Engine: V6 4.0 Liter,ECT-i 5 Speed Automatic Mode Select with Manual Mode,SR5 2WD,Mid-Size Utility,270@5600,17 City /  21 Hwy,
+2018 Toyota Sequoia,"$48,600 ",Average,Engine: V8 5.7 Liter,6 Speed Automatic Mode Select with Manual Mode (A750E),SR5 5.7L 2WD,Premium Full-Size Utility,381@5600,13 City /  17 Hwy,
+2018 Toyota Prius,"$24,685 ",Excellent,Engine: 4-Cyl 1.8 Liter,Continuously Variable Automatic (P112),Two Hatchback,Passenger Car,121@5200,54 City /  50 Hwy,
+2018 Toyota Highlander,"$31,030 ",Excellent,Engine: 4-Cyl 2.7 Liter,ECT-i 6 Speed Automatic Mode Select with Manual Mode,LE 2WD,Full-Size Utility,185@5800,20 City /  24 Hwy,
+2018 Toyota Camry Hybrid,"$27,800 ",Excellent,Engine: 4-Cyl 2.5 Liter,Continuously Variable Automatic with Manual Mode,LE Sedan,Passenger Car,208@5700,51 City /  53 Hwy,
+2018 Toyota RAV4 Hybrid,"$27,235 ",Above Average,Engine: 4-Cyl 2.5 Liter,ECVT Continuously Variable Automatic Mode Select,LE AWD,Mid-Size Utility,194@5700,34 City /  30 Hwy,
+2018 Toyota Corolla iM,"$18,850 ",Above Average,Engine: 4-Cyl 1.8 Liter,6 Speed Manual,Base (Manual) Hatchback,Compact Passenger Car,137@6100,27 City /  35 Hwy,
+2018 Toyota Prius c,"$20,630 ",Above Average,Engine: 4-Cyl 1.5 Liter,Continuously Variable Automatic,One Hatchback,Compact Passenger Car,99@4800,48 City /  43 Hwy,
+2018 Toyota Avalon,"$33,500 ",Excellent,Engine: V6 3.5 Liter,ECT-i 6 Speed Automatic Mode Select with Manual Mode (U660E),XLE Sedan,Premium Passenger Car,268@6200,21 City /  30 Hwy,
+2018 Toyota Tundra,"$34,370 ",Excellent,Engine: V8 4.6 Liter,ECT-i 6 Speed Automatic Mode Select with Manual Mode (AB60F),SR 4.6L 4WD Short Bed Double Cab,Full-Size Pickup LD,310@5600,14 City /  18 Hwy,
+2018 Toyota 86,"$26,255 ",N/A,Engine: 4-Cyl 2.0 Liter BOXER,6 Speed Manual,Base (Manual) Coupe,Sporty/Coupe,205@7000,21 City /  28 Hwy,
+2018 Toyota RAV4,"$25,910 ",Average,Engine: 4-Cyl 2.5 Liter,ECT-i 6 Speed Automatic Mode Select with Manual Mode,LE AWD,Mid-Size Utility,176@6000,22 City /  28 Hwy,
+2018 Toyota Corolla,"$18,600 ",Above Average,Engine: 4-Cyl 1.8 Liter,CVTi-S Continuously Variable Automatic,L (Auto) Sedan,Compact Passenger Car,132@6000,28 City /  36 Hwy,
+,,,,,,,,,
+2018 Toyota Land Cruiser,"$84,315 ",Excellent,Engine: V8 5.7 Liter,8 Speed Automatic Mode Select with Manual Mode,Base,Luxury Utility,381@5600,13 City /  18 Hwy,
+2018 Toyota Highlander Hybrid,"$45,160 ",Excellent,Engine: V6 3.5 Liter,ECVT Continuously Variable Automatic Mode Select,Limited 4WD,Full-Size Utility,306@6600,29 City /  27 Hwy,
+2018 Toyota Prius Prime,"$28,800 ",N/A,Engine: 4-Cyl 1.8 Liter,ECVT Continuously Variable Automatic Mode Select (P112),Premium Hatchback,Passenger Car,121@5200,N/A,Hatchback
+2018 Volkswagen Golf Alltrack,"$25,955 ",N/A,Engine: 4-Cyl Turbo 1.8 Liter,6 Speed Manual,TSI S 4MOTION (Manual) Wagon,Compact Utility,170@4500,21 City /  30 Hwy,
+,,,,,,,,,
+2018 Volkswagen Tiguan,"$24,595 ",Average,Engine: 4-Cyl Turbo 2.0 Liter,Tiptronic® 8 Speed Automatic Mode Select with Manual Mode,2.0T S,Compact Utility,184@4400,22 City /  27 Hwy,
+2018 Volkswagen Jetta,"$18,645 ",Excellent,Engine: 4-Cyl Turbo 1.4 Liter,5 Speed Manual,1.4T S (Manual) Sedan,Compact Passenger Car,150@5000,28 City /  40 Hwy,
+2018 Volkswagen Passat,"$22,995 ",N/A,Engine: 4-Cyl Turbo 2.0 Liter,Tiptronic® 6 Speed Automatic Mode Select with Manual Mode,2.0T S Sedan,Passenger Car,174@5000,25 City /  36 Hwy,
+2018 Volkswagen Golf,"$30,245 ",N/A,Engine: 4-Cyl Turbo 1.8 Liter,Tiptronic 6 Speed Automatic Mode Select with Manual Mode,TSI SEL SportWagen,Compact Utility,170@4500,24 City /  33 Hwy,
+2018 Volkswagen Atlas,"$30,750 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Tiptronic 8 Speed Automatic Mode Select with Manual Mode,2.0T S,Full-Size Utility,235@4500,22 City /  26 Hwy,
+2018 Volkswagen GTI,"$26,415 ",N/A,Engine: 4-Cyl Turbo 2.0 Liter,6 Speed Manual,S (Manual) 4-Door Hatchback,Compact Passenger Car,220@4700,25 City /  33 Hwy,
+,,,,,,,,,
+2018 Volkswagen Beetle,"$20,220 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Tiptronic® 6 Speed Automatic Mode Select with Manual Mode,2.0T S Hatchback,Sporty/Coupe,174@5000,26 City /  33 Hwy,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+2018 Volvo S90,"$48,100 ",Above Average,Engine: 4-Cyl Turbo 2.0 Liter,8 Speed Automatic with Manual Mode (AW TG-81SC),T5 Momentum FWD Sedan,Luxury Passenger Car,250@5500,24 City /  34 Hwy,
+2018 Volvo V60,"$38,250 ",Poor,Engine: 4-Cyl Turbo 2.0 Liter,Geartronic 8 Speed Automatic Mode Select with Manual Mode (AW TG-81SC),T5 Dynamic FWD Wagon,Premium Compact Utility,240@5600,25 City /  36 Hwy,
+2018 Volvo V90,"$49,950 ",Poor,Engine: 4-Cyl Turbo 2.0 Liter,Geartronic 8 Speed Automatic Mode Select with Manual Mode (AW TG-81SC),T5 R-Design FWD Wagon,Luxury Utility,250@5500,24 City /  34 Hwy,
+2018 Volvo XC40,N/A,N/A,N/A,N/A,Base,N/A,N/A,N/A,SUV/Crossover
+2018 Volvo XC60,"$41,500 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Geartronic 8 Speed Automatic with Manual Mode (AW TG81SC),T5 Momentum AWD,Premium Compact Utility,250@5500,22 City /  28 Hwy,
+2018 Volvo XC90,"$54,350 ",Excellent,Engine: 4-Cyl Turbo & Supercharger 2.0 Liter,8 Speed Automatic with Manual Mode (AW TG-81SC),T6 Momentum AWD,Luxury Utility,316@5700,20 City /  27 Hwy,
+2018 Volvo S60,"$34,100 ",Excellent,Engine: 4-Cyl Turbo 2.0 Liter,Geartronic 8 Speed Automatic Mode Select with Manual Mode (AW TF-81SC),T5 Dynamic Sedan,Premium Compact Passenger Car,240@5600,25 City /  36 Hwy,
