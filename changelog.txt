@@ -1,0 +1,8 @@
+Changelog
+================
+
+version 0.1 - 6/19/2018 
+================================
+- Started GitHub repo with elements of first 2 notebooks (review scraping, cleaning/EDA of car statistics)
+- Currently reviews have been scraped from 4 review sites. Target is to have reviews from at least 8 sites by the end of the week.
+- Cleaning the car stats data begins.
