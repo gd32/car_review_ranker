@@ -1,5 +1,5 @@
 # Car Review Recommender System
-This is a car review recommender system that serveds as my capstone project for General Assembly's Data Science Immersive.
+This is a car review recommender system that aims to provide users with a ranked list of car reviews based on sentiment/topic analysis.
 
 ## Goals
 The intent of this project is to create a recommender system for online text-based car reviews based on topic and sentiment analysis using Latent Dirichlet Allocation (LDA) and the sentiment analysis features of TextBlob.
